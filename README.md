@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, World!!!  
 
-  Eu sou a Sthefny, tenho 22 anos e moro em São Paulo/SP - Brasil. Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da Silveira e estudante de Análise e     Desenvolvimento de Sistemas. 
+  Eu sou a Sthefny, tenho 22 anos e moro em São Paulo, SP - Brasil. Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da Silveira e estudante de Análise e     Desenvolvimento de Sistemas. 
 
 ## :woman_technologist:	 Habilidades e Ferramentas  
 
