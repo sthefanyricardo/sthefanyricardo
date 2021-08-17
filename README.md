@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, World!!!  
 
-Eu sou a Sthefny, tenho 22 anos e moro em São Paulo/SP - Brasil.  
-Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da Silveira e estudante de Análise e Desenvolvimento de Sistemas. 
+  Eu sou a Sthefny, tenho 22 anos e moro em São Paulo/SP - Brasil. Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da Silveira e estudante de Análise e     Desenvolvimento de Sistemas. 
 
 ## :woman_technologist:	 Habilidades e Ferramentas  
 
@@ -37,12 +36,11 @@ Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da 
 [![Apache Badge](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/sthefanyricardo)  
 
 
-
 <a href="https://github.com/sthefanyricardo">
-    <img alt="Sthefany github stats - Estatísticas do meu perfil no Github" height="156" src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" alt="Sthefany github stats - Estatísticas do meu perfil no Github" height="156">
 </a>
 <a href="https://github.com/sthefanyricardo">
-   <img alt="Most used languages - Linguagens mais usadas" height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)" alt="Most used languages - Linguagens mais usadas" height="156">
 </a>  
 
 
