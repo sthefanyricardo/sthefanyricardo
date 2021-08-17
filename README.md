@@ -37,12 +37,11 @@
 
 
 <a href="https://github.com/sthefanyricardo">
-    <img src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" alt="Sthefany github stats - Estatísticas do meu perfil no Github" height="156">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)" alt="Most used languages - Linguagens mais usadas" height="156">
 </a>
 <a href="https://github.com/sthefanyricardo">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)" alt="Most used languages - Linguagens mais usadas" height="156">
+    <img src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" alt="Sthefany github stats - Estatísticas do meu perfil no Github" height="156">
 </a>  
-
 
 ## :mailbox: Como chegar até mim:  
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sthefanyricardo/)](https://www.linkedin.com/in/sthefanyricardo/)
