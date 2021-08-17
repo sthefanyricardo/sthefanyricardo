@@ -24,22 +24,22 @@
 <br/>
 
 <a href="https://github.com/sthefany-A/github-readme-stats">
-  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=sthefany-A&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
+    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/sthefany-A/github-readme-stats">
-   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefany-A&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
+<a href="https://github.com/sthefanyricardo/github-readme-stats">
+   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
 </a>
 <br/>
 
 ## :mailbox: Fale comigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/s-albuquerque/)](https://www.linkedin.com/in/s-albuquerque/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sthefanyricardo/)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:s.albuquerque@aluno.ifsp.edu.br)](mailto:s.albuquerque@aluno.ifsp.edu.br)
 
 ---
 
-[![Made Markdown](https://img.shields.io/badge/Made%20with-Markdown-blueviolet.svg)](https://github.com/sthefany-A) 
-[![Made Markdown](https://img.shields.io/badge/Made%20with-HTML-blueviolet.svg)](https://github.com/sthefany-A) 
+[![Made Markdown](https://img.shields.io/badge/Made%20with-Markdown-blueviolet.svg)](https://github.com/sthefanyricardo) 
+[![Made Markdown](https://img.shields.io/badge/Made%20with-HTML-blueviolet.svg)](https://github.com/sthefanyricardo) 
 
 
 <!--
