@@ -51,9 +51,8 @@ e estudante de Análise e Desenvolvimento de Sistemas.
 
 ---
 
-[![Made Markdown](https://img.shields.io/badge/Made%20with-Markdown-blueviolet.svg)](https://github.com/sthefanyricardo) 
-[![Made Markdown](https://img.shields.io/badge/Made%20with-HTML-blueviolet.svg)](https://github.com/sthefanyricardo) 
-
+[![Made Markdown](https://img.shields.io/badge/-Made%20with%20Markdown-6A5ACD?style=flat-square&logo=markdown&logoColor=white)](https://github.com/sthefanyricardo) 
+[![Made HTML](https://img.shields.io/badge/-Made%20with%20HTML-6A5ACD?style=flat-square&logo=html5&logoColor=white)](https://github.com/sthefanyricardo) 
 <!--
 **sthefanyricardo/sthefanyricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
