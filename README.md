@@ -39,10 +39,10 @@ Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da 
 
 
 <a href="https://github.com/sthefanyricardo">
-    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"/>
+    <img alt="Sthefany github stats - Estatísticas do meu perfil no Github" src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&custom_title=Sthefany's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"/>
 </a>
 <a href="https://github.com/sthefanyricardo">
-   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)"/>
+   <img alt="Most used languages - Linguagens mais usadas " src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=vision-friendly-dark&langs_count=6)"/>
 </a>  
 
 
