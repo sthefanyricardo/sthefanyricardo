@@ -1,8 +1,13 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, World!!!  
+## Olá! Seja bem-vinda, seja bem-vindo :)  
 
-  Eu sou a Sthefny, tenho 22 anos e moro em São Paulo, SP - Brasil. Sou formada em Técnico em informática pela ETEC Professor Horácio Augusto da Silveira e estudante de Análise e     Desenvolvimento de Sistemas. 
+Meu nome é Sthefany, sou formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira, estudante de  
+Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
+  
+ - Atualmente estou trabalhando como Analista de Informações Júnior
+ - Aprendendo e trabalhando com Oracle Siebel, Oracle PL/SQL e Banco de Dados Oracle
+ - Estudante autodidata em desenvolvimento back-end e estudando para me tornar uma Desenvolvedora Back-End.
 
-## :woman_technologist:	 Habilidades e Ferramentas  
+## :woman_technologist:	 Tecnologias e Ferramentas  
 
 **Frontend**  
 [![HTML badge](https://img.shields.io/badge/HTML5-5C2D91?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sthefanyricardo)
@@ -50,7 +55,8 @@
 ---
 
 [![Made Markdown](https://img.shields.io/badge/-Made%20with%20Markdown-5C2D91?style=flat-square&logo=markdown&logoColor=white)](https://github.com/sthefanyricardo) 
-[![Made HTML](https://img.shields.io/badge/-Made%20with%20HTML-5C2D91?style=flat-square&logo=html5&logoColor=white)](https://github.com/sthefanyricardo) 
+[![Made HTML](https://img.shields.io/badge/-Made%20with%20HTML-5C2D91?style=flat-square&logo=html5&logoColor=white)](https://github.com/sthefanyricardo)
+
 <!--
 **sthefanyricardo/sthefanyricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
