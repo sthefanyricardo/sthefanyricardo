@@ -5,7 +5,7 @@ Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
   
  - Atualmente estou trabalhando como Analista de Informações Júnior
  - Aprendendo e trabalhando com Oracle Siebel, Oracle PL/SQL e Banco de Dados Oracle
- - Estudante autodidata em desenvolvimento back-end e estudando para me tornar uma Desenvolvedora Back-End.
+ - Estudante autodidata em desenvolvimento back-end e estudando para me tornar uma Desenvolvedora Back-End
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
 
