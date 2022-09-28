@@ -3,9 +3,9 @@
 Meu nome é Sthefany, sou formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira, estudante de  
 Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
   
- - Atualmente estou trabalhando como Analista de Informações Júnior
- - Aprendendo e trabalhando com Oracle Siebel, Oracle PL/SQL e Banco de Dados Oracle
- - Estudante autodidata em desenvolvimento back-end e estudando para me tornar uma Desenvolvedora Back-End
+ - Atualmente estou trabalhando como Quality Engineering Associate
+ - Trabalhando com automação de testes e aprendendo sobre Quality Assurance (QA).   
+ - Estudante autodidata em Quality Assurance (QA) e desenvolvimento Front-End.
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
 
