@@ -4,8 +4,8 @@ Meu nome é Sthefany, sou formada em Técnico em Informática pela ETEC Professo
 Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
   
  - Atualmente estou trabalhando como Quality Engineering Associate
- - Trabalhando com automação de testes e aprendendo sobre Quality Assurance (QA).   
- - Estudante autodidata em Quality Assurance (QA) e desenvolvimento Front-End.
+ - Trabalhando com Automação de Testes, desenvolvendo script automatizados atravez do UFT One e VBScript.   
+ - Aprendendo de forma autodidata sobre Quality Assurance (QA) e desenvolvimento Front-End.
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
 
