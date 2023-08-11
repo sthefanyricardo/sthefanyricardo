@@ -1,11 +1,10 @@
-## Olá! Seja bem-vinda, seja bem-vindo :)  
+## Bem-vindo(s) ao meu perfil! :)  
 
-Meu nome é Sthefany, sou formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira, estudante de  
-Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
+Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Quality Engineer (QE). Formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira e atualmente estudante no 6º período do curso de Análise e Desenvolvimento de Sistemas.
   
- - Atualmente estou trabalhando como Quality Engineering Associate
- - Trabalhando com Automação de Testes, desenvolvendo script automatizados atravez do UFT One e VBScript.   
- - Aprendendo de forma autodidata sobre Quality Assurance (QA) e desenvolvimento Front-End.
+- :briefcase: Trabalho como Quality Engineering Associate, focando em elevar a qualidade dos projetos.
+- :robot: Tenho experiência em Automação de Testes, criando scripts automatizados com UFT One e VBScript.
+- :dart: Estou constantemente aprimorando meus conhecimentos em Qualidade de Software (QA) por meio de aprendizado autodidata.
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
 
@@ -17,29 +16,25 @@ Análise e Desenvolvimento de Sistemas e moro em São Paulo, SP - Brasil.
 [![Markdown Badge](https://img.shields.io/badge/Markdown-5C2D91?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/sthefanyricardo)  
 
 **Backend**  
-[![C Badge](https://img.shields.io/badge/C-5C2D91?style=for-the-badge&logo=C&logoColor=white)](https://github.com/sthefanyricardo)
-[![Java Badge](https://img.shields.io/badge/Java-5C2D91?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sthefanyricardo)
-[![PHP Badge](https://img.shields.io/badge/PHP-5C2D91?style=for-the-badge&logo=php&logoColor=white)](https://github.com/sthefanyricardo)
-[![Codeigniter Badge](https://img.shields.io/badge/Codeigniter-5C2D91?style=for-the-badge&logo=codeigniter&logoColor=white)](https://github.com/sthefanyricardo)
+[![Python Badge](https://img.shields.io/badge/PYTHON-5C2D91?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthefanyricardo)
 [![C# Badge](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/sthefanyricardo)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)
-[![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)  
 
-**Ferramentas**  
-[![Windows Badge](https://img.shields.io/badge/Windows-5C2D91?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sthefanyricardo)
-[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sthefanyricardo)
-[![VS Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/sthefanyricardo)
-[![Eclipse Badge](https://img.shields.io/badge/Eclipse-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/sthefanyricardo)
-[![Sublime Text Badge](https://img.shields.io/badge/sublime_text-5C2D91?&style=for-the-badge&logo=sublime-text&logoColor=white)](https://github.com/sthefanyricardo)  
-[![NetBeans Badge](https://img.shields.io/badge/NetBeansIDE-5C2D91?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://github.com/sthefanyricardo)
-[![Git Badge](https://img.shields.io/badge/Git-5C2D91?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sthefanyricardo)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sthefanyricardo)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-5C2D91?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/sthefanyricardo)  
+**Banco de Dados**  
+[![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)  
+[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)
 
 **Servidores**  
 [![XAMPP Badge](https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/sthefanyricardo) 
 [![Apache Badge](https://img.shields.io/badge/apache-5C2D91?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/sthefanyricardo)  
 
+**Ferramentas**  
+[![Windows Badge](https://img.shields.io/badge/Windows-5C2D91?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sthefanyricardo)
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sthefanyricardo)
+[![VS Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/sthefanyricardo)
+[![Git Badge](https://img.shields.io/badge/Git-5C2D91?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sthefanyricardo)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sthefanyricardo)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-5C2D91?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/sthefanyricardo)  
 
 <a href="https://github.com/sthefanyricardo">
     <img src="https://github-readme-stats.vercel.app/api?username=sthefanyricardo&count_private=true&show_icons=true&include_all_commits=all&custom_title=Sthefany's%20Github%20Stats&theme=midnight-purple" alt="Sthefany github stats - Estatísticas do meu perfil no Github" height="156">
