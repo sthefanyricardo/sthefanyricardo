@@ -20,8 +20,8 @@ Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Qualit
 [![C# Badge](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/sthefanyricardo)
 
 **Banco de Dados**  
-[![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)  
-[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)  
+[![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)
+[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)  
 
 **Servidores**  
