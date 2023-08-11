@@ -3,7 +3,7 @@
 Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Quality Engineer (QE). Formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira e atualmente estudante no 6º período do curso de Análise e Desenvolvimento de Sistemas.
 
 - :briefcase: Trabalho como Quality Engineering Associate, focando em elevar a qualidade dos projetos.
-- :robot: Tenho experiência em Automação de Testes, criando scripts automatizados com UFT One e VBScript.
+- :robot: Tenho experiência em Automação de Testes, criando scripts automatizados com Robot Framework e Python e com o UFT One e VBScript.
 - :dart: Estou constantemente aprimorando meus conhecimentos em Qualidade de Software (QA) por meio de aprendizado autodidata.
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
