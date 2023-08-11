@@ -17,6 +17,8 @@ Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Qualit
 
 **Backend**  
 [![Python Badge](https://img.shields.io/badge/PYTHON-5C2D91?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthefanyricardo)
+[![VBScript Badge](https://img.shields.io/badge/VBScript-5C2D91?style=for-the-badge&logo=Microsoft&logoColor=white)](https://github.com/sthefanyricardo)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-5C2D91?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/sthefanyricardo)
 [![C# Badge](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/sthefanyricardo)
 
 **Banco de Dados**  
@@ -29,10 +31,11 @@ Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Qualit
 [![Apache Badge](https://img.shields.io/badge/apache-5C2D91?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/sthefanyricardo)  
 
 **Ferramentas**  
-[![Windows Badge](https://img.shields.io/badge/Windows-5C2D91?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sthefanyricardo)
 [![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sthefanyricardo)
+[![Robot Framework Badge](https://img.shields.io/badge/robot%20framework-5C2D91?style=for-the-badge&logo=robot-framework&logoColor=white)](https://github.com/sthefanyricardo)
 [![VS Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/sthefanyricardo)
 [![Git Badge](https://img.shields.io/badge/Git-5C2D91?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sthefanyricardo)
+[![Azure DevOps Badge](https://img.shields.io/badge/AZURE%20DEVOPS-5C2D91?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/sthefanyricardo)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sthefanyricardo)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-5C2D91?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/sthefanyricardo)  
 
