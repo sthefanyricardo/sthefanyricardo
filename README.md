@@ -2,7 +2,6 @@
 
 Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Quality Engineer (QE). Formada em Técnico em Informática pela ETEC Professor Horácio Augusto da Silveira e atualmente estudante no 6º período do curso de Análise e Desenvolvimento de Sistemas.
 
-## Sobre mim:
 - :briefcase: Trabalho como Quality Engineering Associate, focando em elevar a qualidade dos projetos.
 - :robot: Tenho experiência em Automação de Testes, criando scripts automatizados com UFT One e VBScript.
 - :dart: Estou constantemente aprimorando meus conhecimentos em Qualidade de Software (QA) por meio de aprendizado autodidata.
@@ -22,8 +21,8 @@ Olá! Sou a Sthefany, uma entusiasta da área de Quality Assurance (QA) e Qualit
 
 **Banco de Dados**  
 [![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)  
-[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)
+[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)  
+[![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)  
 
 **Servidores**  
 [![XAMPP Badge](https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/sthefanyricardo) 
