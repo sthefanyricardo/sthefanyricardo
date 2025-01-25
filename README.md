@@ -43,7 +43,7 @@ Olá! Sou Sthefany, formada em Técnico em Informática e atualmente no último 
 
 ---
 
-![Markdown Badge](https://img.shields.io/badge/-Made--with--Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/-Made%20with%20Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!--
 **sthefanyricardo/sthefanyricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
