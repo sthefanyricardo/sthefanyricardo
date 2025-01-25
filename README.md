@@ -25,7 +25,7 @@ Olá! Sou Sthefany, formada em Técnico em Informática e atualmente no último 
   - VS Code | PyCharm | VS Studio | Android Studio | Appium | Eclipse IDEA | IntelliJ IDEA
 
 - Teste automatizado
-  - Robot Framework | UFT One | Selenium
+  - Robot Framework | UFT One | Bibliotecas do Selenium
 
 - Teste manual
   - Postman | Swagger | Pacote Office (Word, Excel, PowerPoint)
