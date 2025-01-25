@@ -8,50 +8,42 @@ Olá! Sou Sthefany, formada em Técnico em Informática e atualmente no último 
 
 ## :woman_technologist:	 Tecnologias e Ferramentas  
 
-**Frontend**  
-[![HTML badge](https://img.shields.io/badge/HTML-5C2D91?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/sthefanyricardo)
-[![CSS Badge](https://img.shields.io/badge/CSS-5C2D91?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/sthefanyricardo)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-5C2D91?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/sthefanyricardo) 
-[![Bootstrap badge](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/sthefanyricardo)
-[![Markdown Badge](https://img.shields.io/badge/Markdown-5C2D91?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/sthefanyricardo)  
+**Frontend**
+- HTML | CSS | JavaScript | Bootstrap | Markdown
 
 **Backend**  
-[![Python Badge](https://img.shields.io/badge/PYTHON-5C2D91?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthefanyricardo)
-[![VBScript Badge](https://img.shields.io/badge/VBScript-5C2D91?style=for-the-badge&logo=Microsoft&logoColor=white)](https://github.com/sthefanyricardo)
-[![C# Badge](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/sthefanyricardo)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-5C2D91?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/sthefanyricardo)
+- Python | VBScript | JavaScript | C# | PL/SQL
 
 **Banco de Dados**  
-[![SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/sthefanyricardo)
-[![PL/SQL Badge](https://img.shields.io/badge/PL/SQ-5C2D91?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/sthefanyricardo)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/sthefanyricardo)
-[![MongoDB Badge](https://img.shields.io/badge/MONGO%20DB-5C2D91?style=for-the-badge&logo=mongodb&code&logoColor=white)](https://github.com/sthefanyricardo)  
+- SQL Server | MySQL | phpMyAdmin | Oracle | Oracle BRM | DBeaver | MongoDB | PostgreSQL
 
 **Servidores**  
-[![XAMPP Badge](https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/sthefanyricardo)
-[![Apache Badge](https://img.shields.io/badge/apache-5C2D91?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/sthefanyricardo)  
+- XAMPP Badge | Apache
 
 **Ferramentas**  
-[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/sthefanyricardo)
-[![VS Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/sthefanyricardo)
-[![Robot Framework Badge](https://img.shields.io/badge/robot%20framework-5C2D91?style=for-the-badge&logo=robot-framework&logoColor=white)](https://github.com/sthefanyricardo)
-[![Selenium Badge](https://img.shields.io/badge/SELENIUN-5C2D91?style=for-the-badge&logo=SELENIUM&code&logoColor=white)](https://github.com/sthefanyricardo)
-[![Postman Badge](https://img.shields.io/badge/POSTMAN-5C2D91?style=for-the-badge&logo=POSTMAN&code&logoColor=white)](https://github.com/sthefanyricardo)
-[![Azure DevOps Badge](https://img.shields.io/badge/AZURE%20DEVOPS-5C2D91?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/sthefanyricardo)
-[![Trello Badge](https://img.shields.io/badge/TRELLO-5C2D91?style=for-the-badge&logo=TRELLO&code&logoColor=white)](https://github.com/sthefanyricardo)
-[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-5C2D91?style=for-the-badge&logo=Microsoft%20Excel&code&logoColor=white)](https://github.com/sthefanyricardo)
-[![Git Badge](https://img.shields.io/badge/Git-5C2D91?style=for-the-badge&logo=git&logoColor=white)](https://github.com/sthefanyricardo)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-5C2D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sthefanyricardo)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-5C2D91?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/sthefanyricardo)  
+- IDE's
+  - VS Code | PyCharm | VS Studio | Android Studio | Appium | Eclipse IDEA | IntelliJ IDEA
+
+- Teste automatizado
+  - Robot Framework | UFT One | Selenium
+
+- Teste manual
+  - Postman | Swagger | Pacote Office (Word, Excel, PowerPoint)
+
+- Gerenciamento do ciclo de vida de aplicações (ALM)
+  - Azure DevOps | Jira | Trello 
+
+- Versionamento de código
+   - Git | Azure DevOps | Bitbucket | GitHub
 
 ## :mailbox: Como chegar até mim:  
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-5C2D91?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sthefanyricardo/)](https://www.linkedin.com/in/sthefanyricardo/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:s.albuquerque@aluno.ifsp.edu.br)](mailto:s.albuquerque@aluno.ifsp.edu.br)
+1. [LinkedIn](https://www.linkedin.com/in/sthefanyricardo/)  
+2. [Gmail](mailto:sthefannyricardo@gmail.com)
+3. [Email](mailto:sthefanyricardo@outlook.com.br)
 
 ---
 
-[![Made Markdown](https://img.shields.io/badge/-Made%20with%20Markdown-5C2D91?style=flat-square&logo=markdown&logoColor=white)](https://github.com/sthefanyricardo) 
-[![Made HTML](https://img.shields.io/badge/-Made%20with%20HTML-5C2D91?style=flat-square&logo=html5&logoColor=white)](https://github.com/sthefanyricardo)
+![Markdown Badge](https://img.shields.io/badge/-Made--with--Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!--
 **sthefanyricardo/sthefanyricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
