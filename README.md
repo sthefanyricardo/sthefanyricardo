@@ -1,61 +1,36 @@
-## Bem-vindo(s) ao meu perfil! :)  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-Olá! Sou Sthefany, formada em Técnico em Informática e atualmente no último semestre do curso de Análise e Desenvolvimento de Sistemas. Tenho mais de 3 anos de experiência com Automação de Testes, e sou apaixonada pelo universo de Qualidade de Software. Estou sempre em busca de aprimorar minhas habilidades, aprendendo novas tecnologias e práticas de teste.
+Sou **Sthefany**, formada em Técnico em Informática e atualmente no último semestre do curso **Análise e Desenvolvimento de Sistemas**. Tenho mais de **3 anos de experiência com Automação de Testes**, com foco em garantir a qualidade e eficiência de aplicações por meio de testes funcionais, automatizados e APIs.
 
-- :briefcase:  Buscando oportunidades como Analista de Automação de Testes ou Analista de Testes (QA).
-- :robot: Tenho sólida experiência em Automação de Testes, criando scripts de testes automatizados, utilizando Robot Framework, Python, UFT One e VBScript.
-- :dart: Aperfeiçoamento constante na área de Qualidade de Software (QA), com foco em aprendizado autodidata e aplicação prática de novas soluções.
+Sou apaixonada pela área de **Qualidade de Software (QA)** e estou sempre buscando evoluir profissionalmente, aprendendo novas tecnologias, boas práticas e me desafiando em projetos práticos.
 
-## :woman_technologist:	 Tecnologias e Ferramentas  
+### 🎯 Objetivos
+- 💼 Em busca de novas oportunidades como **Analista de Automação de Testes** ou **Analista de Qualidade (QA)**.
+- 🤖 Experiência sólida com **Robot Framework**, **Python**, **UFT One** e **VBScript**.
+- 🚀 Comprometida com a **melhoria contínua** e o **aprimoramento de processos de testes**.
 
-**Frontend**
-- HTML | CSS | JavaScript | Bootstrap | Markdown
 
-**Backend**  
-- Python | VBScript | JavaScript | C# | PL/SQL
+## 🛠️ Tecnologias e Ferramentas  
 
-**Banco de Dados**  
-- SQL Server | MySQL | phpMyAdmin | Oracle | Oracle BRM | DBeaver | MongoDB | PostgreSQL
+| Categoria                           | Tecnologias & Ferramentas                                                                       |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| 👩‍🎨 Frontend                         | `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Markdown`                                            |
+| 👩‍💻 Backend                          | `Python`, `VBScript`, `JavaScript`, `C#`, `PL/SQL`                                              |
+| 🗃️ Banco de Dados                   | `SQL Server`, `MySQL`, `PostgreSQL`, `MongoDB`, `Oracle`, `phpMyAdmin`, `Oracle BRM`, `DBeaver` |
+| 🌐 Servidores                       | `XAMPP`, `Apache`                                                                               |
+| 🔧 IDEs                             | `VS Code`, `PyCharm`, `Visual Studio`, `Android Studio`, `Eclipse`, `IntelliJ IDEA`             |
+| 🤖 Automação de Testes              | `Robot Framework`, `UFT One`, `Selenium Libraries`                                              |
+| 🦾 Testes Manuais e de API          | `Postman`, `Swagger`, `SoapUI`                                                                  |
+| 📊 Gerenciamento de Projetos        | `Azure DevOps`, `Jira`, `Trello`                                                                |
+| :octocat: Versionamento de Código   | `Git`, `GitHub`, `Bitbucket`, `Azure Repos`                                                     |
+| 📋 Outros                           | `Pacote Office (Word, Excel, PowerPoint)`                                                       |
 
-**Servidores**  
-- XAMPP Badge | Apache
-
-**Ferramentas**  
-- IDE's
-  - VS Code | PyCharm | VS Studio | Android Studio | Appium | Eclipse IDEA | IntelliJ IDEA
-
-- Teste automatizado
-  - Robot Framework | UFT One | Bibliotecas do Selenium
-
-- Teste manual
-  - Postman | Swagger | Pacote Office (Word, Excel, PowerPoint)
-
-- Gerenciamento do ciclo de vida de aplicações (ALM)
-  - Azure DevOps | Jira | Trello 
-
-- Versionamento de código
-   - Git | Azure DevOps | Bitbucket | GitHub
 
 ## :mailbox: Como chegar até mim:  
-1. [LinkedIn](https://www.linkedin.com/in/sthefanyricardo/)  
-2. [Gmail](mailto:sthefannyricardo@gmail.com)
-3. [Email](mailto:sthefanyricardo@outlook.com.br)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sthefanyricardo/)
+- 📧 [sthefannyricardo@gmail.com](mailto:sthefannyricardo@gmail.com)
+- 📧 [sthefanyricardo@outlook.com.br](mailto:sthefanyricardo@outlook.com.br)
 
 ---
 
-![Markdown Badge](https://img.shields.io/badge/-Made%20with%20Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<!--
-**sthefanyricardo/sthefanyricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
