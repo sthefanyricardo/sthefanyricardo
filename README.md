@@ -4,7 +4,7 @@ Sou **Sthefany**, formada em Técnico em Informática e atualmente no último se
 
 Sou apaixonada pela área de **Qualidade de Software (QA)** e estou sempre buscando evoluir profissionalmente, aprendendo novas tecnologias, boas práticas e me desafiando em projetos práticos.
 
-### 🎯 Objetivos
+## 🎯 Objetivos
 - 💼 Em busca de novas oportunidades como **Analista de Automação de Testes** ou **Analista de Qualidade (QA)**.
 - 🤖 Experiência sólida com **Robot Framework**, **Python**, **UFT One** e **VBScript**.
 - 🚀 Comprometida com a **melhoria contínua** e o **aprimoramento de processos de testes**.
