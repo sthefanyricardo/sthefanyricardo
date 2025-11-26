@@ -24,9 +24,9 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - Atuação em equipes de Chapter de QA e Arquitetura
 - Colaboração em melhorias de processo de QA
 - Suporte ao onboarding de novos QAs
+- Competência de organizar e estruturar projetos de testes automatizados do zero
 - Boas práticas na implementação de estruturas de projeto de Testes Automatizados de APIs
 - Boas práticas na refatoração de estruturas de projeto de Testes Automatizados de APIs
-- Capacidade de organizar e estruturar projetos de testes automatizados do 0
 
 ---
 
