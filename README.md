@@ -43,7 +43,8 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
   - Conhecimento e vivência com **pipelines CI/CD**
   - Gestão de plano e casos de teste
   - Planejamento e desenvolvimento de plano e casos de teste
-  - Documentação técnica
+  - Planejamento e desenvolvimento de casos de teste automatizados
+  - Documentação técnica de projetos
   
 ### 🐞 **Tipos de Testes:**
 - ✅ Testes funcionais e não funcionais
