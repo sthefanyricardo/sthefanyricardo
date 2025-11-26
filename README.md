@@ -59,7 +59,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 | 🗃️ Banco de Dados                   | `SQL Server`, `MySQL`, `Oracle`, `PostgreSQL`, `MongoDB`, `phpMyAdmin`, `Oracle BRM`, `DBeaver` |
 | 🔧 IDEs                             | `VS Code`, `PyCharm`, `Visual Studio`, `Android Studio`, `Eclipse`, `IntelliJ`                  |
 | 🤖 Automação de Testes              | `Robot Framework`, `Selenium Libraries`, `Playwright Library`, `Pytest`, `UFT One`, `Cypress`   |
-| 🦾 Testes Manuais de API            | `Postman`, `Insomnia `, `Swagger`, `SoapUI`, `API GraphQL`, `Apollo GraphQL`,                   |
+| 🐞 Testes Manuais de API            | `Postman`, `Insomnia `, `Swagger`, `SoapUI`, `API GraphQL`, `Apollo GraphQL`,                   |
 | 📊 Gerenciamento de Projetos        | `Azure DevOps`, `Jira`, `Trello`                                                                |
 | 📈 Gestão de testes de software     | `Azure Test Plans`, `Confluence`, `TestLink`, `QAse.io`, `Notion`, `HP Quality Center`          |
 | :octocat: Versionamento de Código   | `Azure Repos`, `Git`, `GitHub`, `Bitbucket`                                                      |
