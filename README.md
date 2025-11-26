@@ -24,6 +24,9 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - Atuação em equipes de Chapter de QA e Arquitetura
 - Colaboração em melhorias de processo de QA
 - Suporte ao onboarding de novos QAs
+- Boas práticas na implementação de estruturas de projeto de Testes Automatizados de APIs
+- Boas práticas na refatoração de estruturas de projeto de Testes Automatizados de APIs
+- Capacidade de organizar e estruturar projetos de testes automatizados do 0
 
 ---
 
@@ -91,7 +94,7 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 
 ```python
 estudos_2025 = {
-    "foco_principal": ["Robot Framework (nível avançado)", "Automação de Testes de APIs", "Postman Academy"]
+    "foco_principal": ["Robot Framework (nível avançado)", "Automação de Testes de APIs", "Postman Academy"],
     "secundário": ["CI/CD focado em automação", "IA", "MCP", "Agent", "LLMs"],
     "certificações": ["ISTQB Foundation Level", "Robot Framework Certified Professional (RFCP)"],
     "livros": ["", ""]
