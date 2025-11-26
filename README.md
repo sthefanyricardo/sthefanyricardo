@@ -16,10 +16,10 @@
 Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e atualmente concluindo graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 
 **Competência em:**
-- 🎯 Automação de Testes (Front-end e Back-end)
 - 🔍 Testes Funcionais, não Funcionais, exploratórios e automação de testes
+- 🎯 Automação de Testes (Front-end e Back-end)
 - 🤖 Robot Framework, Python, UFT One e Cypress
-- 🚀 Integração de Pipelines CI/CD
+- ⚙️ Integração de Pipelines CI/CD
 
 Sou apaixonada pela área de **Engenharia de Qualidade de Software** e comprometida om a **melhoria contínua** dos processos de desenvolvimento de software. No modo **Life live learning** busco sempre aprimorar o meu processo de evolução de carreira e profissional, aprendendo novas tecnologias e framework, metodologias, boas práticas e me desafiando em projetos práticos.
 
@@ -80,7 +80,7 @@ estudos_2025 = {
 
 ---
 
-## 📊 GitHub Stats
+## 📌 GitHub Stats
 
 <div align="center">
   
