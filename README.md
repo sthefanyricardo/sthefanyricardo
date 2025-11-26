@@ -3,9 +3,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+world!+Welcome!!!;👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
-[![Email](https://img.shields.io/badge/Email-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
-[![Email](https://img.shields.io/badge/Email-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-6567a5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-6567a5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
 
 </div>
 
@@ -21,7 +20,7 @@ Profissional da área **Qualidade de Software** com mais de **3 anos de experiê
 - 🤖 Robot Framework, Python, UFT One e Cypress
 - ⚙️ Integração de Pipelines CI/CD
 
-Sou apaixonada pela área de **Engenharia de Qualidade de Software** e comprometida om a **melhoria contínua** dos processos de desenvolvimento de software. No modo **Life live learning** busco sempre aprimorar o meu processo de evolução de carreira e profissional, aprendendo novas tecnologias e framework, metodologias, boas práticas e me desafiando em projetos práticos.
+Sou apaixonada pela área de **Engenharia de Qualidade de Software** e comprometida com a **melhoria contínua** dos processos de desenvolvimento de software. No modo **Life live learning** busco sempre aprimorar o meu processo de evolução de carreira e profissional, aprendendo novas tecnologias e framework, metodologias, boas práticas e me desafiando em projetos práticos.
 
 ---
 
