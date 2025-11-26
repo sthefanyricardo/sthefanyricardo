@@ -16,7 +16,7 @@
 Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e atualmente concluindo graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 
 **Competência em:**
-- 🔍 Testes Funcionais, não Funcionais, exploratórios e automação de testes
+- 🐞 Testes Funcionais, não Funcionais, exploratórios e automação de testes
 - 🎯 Automação de Testes (Front-end e Back-end)
 - 🤖 Robot Framework, Python, UFT One e Cypress
 - ⚙️ Integração de Pipelines CI/CD
@@ -40,7 +40,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 - ✅ Validações e consultas em Banco de Dados
 - ✅ Testes de regressão automatizados
 
-### 🚀 Práticas e Metodologias
+### ⚙️ Práticas e Metodologias
 - Pipelines CI/CD
 - Múltiplos ambientes
 - Homologação do produto
