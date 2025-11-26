@@ -19,10 +19,9 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 ### 🌟 Destaques da Carreira
 
 - +3 anos de experiência em QA e Automação de Testes  
-- Atuação nos setores de **Telecom** e **Varejo**
+- Atuação nos setores de **Telecom**, **Varejo de moda e vestuário** e **ERP especializado Varejo de Moda e Varejo Especializado**
 - Participação em projetos de testes funcionais, não funcionais e exploratórios (Front-end e Back-end)
 - Atuação em equipes de Chapter de QA e Arquitetura  
-- Foco atual em **testes automatizados de APIs e Web**  
 - Expertise em automação de testes com **Robot Framework** e **Python**
 - Expertise em testes de APIs Rest com **Postman** e **JavaScript**
 - Conhecimento e vivência com múltiplos ambientes e homologação
