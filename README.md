@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+## 👩‍💻 Sobre mim
 
 Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e atualmente concluindo graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 
