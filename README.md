@@ -1,6 +1,6 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+world!+Welcome!!!;👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Email](https://img.shields.io/badge/Email-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
