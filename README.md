@@ -69,7 +69,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 
 ## 📚 Estudando atualmente
 
-```python
+```json
 estudos_2025 = {
     "foco_principal": "",
     "secundário": ["", ""],
