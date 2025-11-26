@@ -29,7 +29,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 
 ### 💼 Atuação profissional
 - **Cargo Atual:** Analista de Qualidade de Software Pleno (QA/QE)
-- **Foco principal:** Automação de Testes Web/UI e APIs
+- **Foco principal:** Automação de Testes APIs e Web/UI
 - **Experiência:** 3+ anos na área de Qualidade de Software
 
 ### 🔍 **Tipos de Testes:**
