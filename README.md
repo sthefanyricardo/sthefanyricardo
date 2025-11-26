@@ -119,9 +119,9 @@ estudos_2025 = {
 
 <div align="center">
 
-### ⭐ "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin
+#### ⭐ "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin
 
-### ⭐ "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
+#### ⭐ "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
