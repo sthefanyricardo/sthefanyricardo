@@ -24,10 +24,6 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - Atuação em equipes de Chapter de QA e Arquitetura
 - Colaboração em melhorias de processo de QA
 - Suporte ao onboarding de novos QAs
-- Expertise em automação de testes com **Robot Framework** e **Python**
-- Expertise em testes de APIs Rest com **Postman** e **JavaScript**
-- Conhecimento e vivência com múltiplos ambientes e homologação
-- Conhecimento e vivência com **pipelines CI/CD**
 
 ---
 
@@ -36,8 +32,13 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 ### 🏆 Atuação profissional
 - **Cargo Atual:** Analista de Qualidade de Software Pleno (QA/QE)
 - **Foco principal:** Automação de Testes APIs e Web/UI
-- **Experiência:** 3+ anos na área de Qualidade de Software
-
+- **Experiência:**
+  - 3+ anos na área de Qualidade de Software
+  - Expertise em automação de testes com **Robot Framework** e **Python**
+  - Expertise em testes de APIs Rest com **Postman** e **JavaScript**
+  - Conhecimento e vivência com múltiplos ambientes e homologação
+  - Conhecimento e vivência com **pipelines CI/CD**
+  
 ### 🐞 **Tipos de Testes:**
 - ✅ Testes funcionais e não funcionais
 - ✅ Testes Exploratórios
