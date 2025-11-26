@@ -61,7 +61,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 | 🤖 Automação de Testes              | `Robot Framework`, `Selenium Libraries`, `Playwright Library`, `Pytest`, `UFT One`, `Cypress`   |
 | 🦾 Testes Manuais de API            | `Postman`, `Insomnia `, `Swagger`, `SoapUI`, `API GraphQL`, `Apollo GraphQL`,                   |
 | 📊 Gerenciamento de Projetos        | `Azure DevOps`, `Jira`, `Trello`                                                                |
-| 📊 Gestão de testes de software     | `Azure Test Plans`, `Confluence`, `TestLink`, `QAse.io`, `Notion`, `HP Quality Center`          |
+| 📈 Gestão de testes de software     | `Azure Test Plans`, `Confluence`, `TestLink`, `QAse.io`, `Notion`, `HP Quality Center`          |
 | :octocat: Versionamento de Código   | `Azure Repos`, `Git`, `GitHub`, `Bitbucket`                                                      |
 | 🔨 Outros                           | `Pacote Office (Word, Excel, PowerPoint)`                                                       |
 
@@ -69,7 +69,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 
 ## 📚 Estudando atualmente
 
-```json
+```python
 estudos_2025 = {
     "foco_principal": "",
     "secundário": ["", ""],
