@@ -56,8 +56,9 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - ✅ Testes de regressão automatizados (Front-end e Back-end)
 
 ### ⚙️ Práticas e Metodologias
-- Pipelines CI/CD
 - Metodologias Ágeis
+- Pipelines CI/CD
+- Continuous testing
 
 ---
 
