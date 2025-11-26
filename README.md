@@ -80,8 +80,8 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 
 ```python
 estudos_2025 = {
-    "foco_principal": "",
-    "secundário": ["", ""],
+    "foco_principal": ["Robot Framework (nível avançado)", "Automação de Testes de APIs", "Postman Academy"]
+    "secundário": ["CI/CD focado em automação", "IA", "MCP", "Agent", "LLMs"],
     "certificações": ["ISTQB Foundation Level", "Robot Framework Certified Professional (RFCP)"],
     "livros": ["", ""]
 }
