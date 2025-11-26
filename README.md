@@ -52,42 +52,6 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 
 ## 🛠️ Meu conjunto de tecnologias e ferramentas
 
-### 🤖 Automação de Testes
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔧 Testes de API
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗃️ Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📊 Gestão de Projetos
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔨 Ferramentas e IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-<details>
-  
-<summary><b>📋 Ver lista completa de tecnologias e ferramentas</b></summary>
-
 | Categoria                           | Tecnologias & Ferramentas                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
 | 👩‍🎨 Frontend                         | `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Markdown`                                            |
@@ -99,9 +63,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 | 📊 Gerenciamento de Projetos        | `Azure DevOps`, `Jira`, `Trello`                                                                |
 | 📊 Gestão de testes de software     | `Azure Test Plans`, `Confluence`, `TestLink`, `QAse.io`, `Notion`, `HP Quality Center`          |
 | :octocat: Versionamento de Código   | `Azure Repos`, `Git`, `GitHub`, `Bitbucket`                                                      |
-| 📋 Outros                           | `Pacote Office (Word, Excel, PowerPoint)`                                                       |
-
-</details>
+| 🔨 Outros                           | `Pacote Office (Word, Excel, PowerPoint)`                                                       |
 
 ---
 
