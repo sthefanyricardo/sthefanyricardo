@@ -12,15 +12,23 @@
 
 ## 👩‍💻 Sobre mim
 
-Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e atualmente concluindo graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
+Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática**  e finalizando a graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 
-**Competência em:**
-- 🐞 Testes Funcionais, não Funcionais, exploratórios e automação de testes
-- ☑️ Automação de Testes (Front-end e Back-end)
-- 🤖 Robot Framework, Python, UFT One e Cypress
-- ⚙️ Integração de Pipelines CI/CD
+Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho perfil **Lifelong Learning** e foco constante em evolução profissional.
 
-Sou apaixonada pela área de **Engenharia de Qualidade de Software** e comprometida com a **melhoria contínua** dos processos de desenvolvimento de software. No modo **Lifelong Learning** busco sempre aprimorar o meu processo de evolução de carreira e profissional, aprendendo novas tecnologias e framework, metodologias, boas práticas e me desafiando em projetos práticos.
+### 🌟 Destaques da Carreira
+
+- +3 anos de experiência em QA e Automação de Testes  
+- Atuação nos setores de **Telecom** e **Varejo**
+- Participação em projetos de testes funcionais, não funcionais e exploratórios (Front-end e Back-end)
+- Atuação em equipes de Chapter de QA e Arquitetura  
+- Foco atual em **testes automatizados de APIs e Web**  
+- Expertise em automação de testes com **Robot Framework** e **Python**
+- Expertise em testes de APIs Rest com **Postman** e **JavaScript**
+- Conhecimento e vivência com múltiplos ambientes e homologação
+- Conhecimento e vivência com **pipelines CI/CD**
+- Suporte ao onboarding de novos QAs
+- Colaboração em melhorias de processo de QA
 
 ---
 
@@ -34,10 +42,12 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 ### 🐞 **Tipos de Testes:**
 - ✅ Testes funcionais e não funcionais
 - ✅ Testes Exploratórios
+- ✅ Consultas e validações em Banco de Dados
 - ✅ Testes de APIs e Contratos
 - ✅ Testes de Performance
-- ✅ Validações e consultas em Banco de Dados
-- ✅ Testes de regressão automatizados
+- ✅ Testes automatizados web/UI (Front-end)
+- ✅ Testes automatizados de APIs (Back-end)
+- ✅ Testes de regressão automatizados (Front-end e Back-end)
 
 ### ⚙️ Práticas e Metodologias
 - Pipelines CI/CD
