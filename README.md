@@ -17,7 +17,7 @@ Profissional da área **Qualidade de Software** com mais de **3 anos de experiê
 
 **Competência em:**
 - 🐞 Testes Funcionais, não Funcionais, exploratórios e automação de testes
-- 🎯 Automação de Testes (Front-end e Back-end)
+- ☑️ Automação de Testes (Front-end e Back-end)
 - 🤖 Robot Framework, Python, UFT One e Cypress
 - ⚙️ Integração de Pipelines CI/CD
 
