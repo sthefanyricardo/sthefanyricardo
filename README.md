@@ -39,8 +39,11 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
   - +3 anos de experiência em QA e Automação de Testes
   - Expertise em automação de testes com **Robot Framework** e **Python**
   - Expertise em testes de APIs Rest com **Postman** e **JavaScript**
-  - Conhecimento e vivência com múltiplos ambientes e homologação
+  - Conhecimento e vivência com múltiplos ambientes e homologação do produto
   - Conhecimento e vivência com **pipelines CI/CD**
+  - Gestão de plano e casos de teste
+  - Planejamento e desenvolvimento de plano e casos de teste
+  - Documentação técnica
   
 ### 🐞 **Tipos de Testes:**
 - ✅ Testes funcionais e não funcionais
@@ -54,10 +57,6 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 
 ### ⚙️ Práticas e Metodologias
 - Pipelines CI/CD
-- Múltiplos ambientes
-- Homologação do produto
-- Gestão de plano e casos de teste
-- Documentação técnica
 - Metodologias Ágeis
 
 ---
@@ -82,7 +81,7 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 | 🗃️ Banco de Dados                   | `SQL Server`, `MySQL`, `Oracle`, `PostgreSQL`, `MongoDB`, `phpMyAdmin`, `Oracle BRM`, `DBeaver` |
 | 🔧 IDEs                             | `VS Code`, `PyCharm`, `Visual Studio`, `Android Studio`, `Eclipse`, `IntelliJ`                  |
 | 🤖 Automação de Testes              | `Robot Framework`, `Selenium Libraries`, `Playwright Library`, `Pytest`, `UFT One`, `Cypress`   |
-| 🐞 Testes Manuais de API            | `Postman`, `Insomnia `, `Swagger`, `SoapUI`, `API GraphQL`, `Apollo GraphQL`,                   |
+| 🐞 Testes Manuais de API            | `Postman`, `Insomnia`, `Swagger`, `SoapUI`, `API GraphQL`, `Apollo GraphQL`,                   |
 | 📊 Gerenciamento de Projetos        | `Azure DevOps`, `Jira`, `Trello`                                                                |
 | 📈 Gestão de testes de software     | `Azure Test Plans`, `Confluence`, `TestLink`, `QAse.io`, `Notion`, `HP Quality Center`          |
 | :octocat: Versionamento de Código   | `Azure Repos`, `Git`, `GitHub`, `Bitbucket`                                                      |
