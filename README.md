@@ -55,7 +55,7 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 | Categoria                           | Tecnologias & Ferramentas                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
 | 👩‍🎨 Frontend                         | `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Markdown`                                            |
-| 👩‍💻 Backend                          | `Python`, `JavaScript`,, `VBScript`, `C#`, `PL/SQL`, `SQL`, `Java`                              |
+| 👩‍💻 Backend                          | `Python`, `JavaScript`, `VBScript`, `C#`, `PL/SQL`, `SQL`, `Java`                              |
 | 🗃️ Banco de Dados                   | `SQL Server`, `MySQL`, `Oracle`, `PostgreSQL`, `MongoDB`, `phpMyAdmin`, `Oracle BRM`, `DBeaver` |
 | 🔧 IDEs                             | `VS Code`, `PyCharm`, `Visual Studio`, `Android Studio`, `Eclipse`, `IntelliJ`                  |
 | 🤖 Automação de Testes              | `Robot Framework`, `Selenium Libraries`, `Playwright Library`, `Pytest`, `UFT One`, `Cypress`   |
