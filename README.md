@@ -112,6 +112,10 @@ estudos_2025 = {
 
 <div align="center">
 
+### ⭐ "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin
+
+### ⭐ "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
 ![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
