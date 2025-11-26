@@ -108,6 +108,10 @@ estudos_2025 = {
 
 💼 Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
+[![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-6567a5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
+
 ---
 
 <div align="center">
