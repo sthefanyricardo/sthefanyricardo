@@ -58,7 +58,6 @@ Sou apaixonada pela área de **Engenharia de Qualidade de Software** e compromet
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
----
 
 ## 🛠️ Meu conjunto de tecnologias e ferramentas
 
@@ -120,9 +119,11 @@ estudos_2025 = {
 
 ### ⭐ "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
 
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
 ![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
+
 
 **Feito com 💜 e muito ☕**
 
