@@ -11,6 +11,28 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    
+    <!-- Mermaid.js integration -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        mermaid.initialize({ 
+          startOnLoad: true,
+          theme: 'dark',
+          themeVariables: {
+            primaryColor: '#6567a5',
+            primaryTextColor: '#ffffff',
+            primaryBorderColor: '#6567a5',
+            lineColor: '#6567a5',
+            sectionBkgColor: '#1a1b27',
+            altSectionBkgColor: '#2d2e40',
+            gridColor: '#6567a5',
+            secondaryColor: '#6567a5',
+            tertiaryColor: '#1a1b27'
+          }
+        });
+      });
+    </script>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>

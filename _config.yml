@@ -5,7 +5,6 @@ kramdown:
   
 plugins:
   - jekyll-remote-theme
-  - jekyll-mermaid
   - jekyll-github-metadata
   - jekyll-relative-links
 
