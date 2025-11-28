@@ -13,39 +13,42 @@
     {% include head-custom.html %}
 
     {% include head.html %} <!-- preserva o head do tema (se existir) -->
-    {% include mermaid.html %}
 
+    <!-- Mermaid (usar apenas UMA versão aqui) -->
     <script src="https://unpkg.com/mermaid@9.4.3/dist/mermaid.min.js"></script>
     <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      if (!window.mermaid) return;
-      // Não iniciar automaticamente (evita conflitos); faremos init manual
-      mermaid.initialize({ startOnLoad: false });
+      document.addEventListener("DOMContentLoaded", function () {
+        if (!window.mermaid) return;
+        // Não iniciar automatic. Vamos inicializar manualmente depois de criar containers .mermaid
+        mermaid.initialize({ startOnLoad: false });
 
-      // Seleciona blocos de código marcados como language-mermaid
-      const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
+        // Seleciona blocos de código marcados como language-mermaid
+        const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
 
-      codeBlocks.forEach((codeBlock) => {
-        // O <pre> é o pai típico. Se não houver <pre>, usamos o próprio codeBlock
-        const pre = codeBlock.closest('pre') || codeBlock.parentElement;
-        const graphDefinition = codeBlock.textContent;
+        codeBlocks.forEach((codeBlock) => {
+          const pre = codeBlock.closest('pre') || codeBlock.parentElement;
+          const graphDefinition = codeBlock.textContent.trim();
 
-        // Cria um container mermaid e insere o texto do diagrama
-        const mermaidDiv = document.createElement('div');
-        mermaidDiv.className = 'mermaid';
-        mermaidDiv.textContent = graphDefinition;
+          // cria container mermaid
+          const mermaidDiv = document.createElement('div');
+          mermaidDiv.className = 'mermaid';
+          mermaidDiv.textContent = graphDefinition;
 
-        // Substitui o bloco de código pelo container mermaid
-        if (pre && pre.parentElement) {
-          pre.parentElement.replaceChild(mermaidDiv, pre);
-        } else {
-          codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
+          // substitui o bloco de código pelo container mermaid
+          if (pre && pre.parentElement) {
+            pre.parentElement.replaceChild(mermaidDiv, pre);
+          } else {
+            codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
+          }
+        });
+
+        // Inicializa o mermaid nos containers criados
+        try {
+          mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+        } catch (e) {
+          console.error("Mermaid init error:", e);
         }
       });
-
-      // Inicializa o mermaid nos containers criados
-      mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-    });
     </script>
 
   </head>
