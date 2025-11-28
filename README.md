@@ -1,7 +1,10 @@
+---
+---
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+world!+Welcome!!!;👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<div align="center" markdown="1">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
@@ -223,7 +226,7 @@ estudos_2025 = {
 ## 📌 GitHub Stats
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<div align="center" markdown="1">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sthefanyricardo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6567a5&icon_color=6567a5)
   
@@ -236,7 +239,7 @@ estudos_2025 = {
 ---
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<div align="center" markdown="1">
 
 ## 💬 Vamos Conversar?
 
@@ -251,7 +254,7 @@ Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
 ---
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<div align="center" markdown="1">
 
 ### ⭐ "A qualidade nunca é um acidente, é sempre o resultado de um esforço inteligente." - John Ruskin
 
