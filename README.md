@@ -135,17 +135,19 @@ timeline
 ### 🏆 Atuação Profissional
 
 - **Cargo Atual:** Analista de Qualidade de Software Pleno (QA/QE)
-- **Foco principal:** Automação de Testes APIs e Web/UI
-- **Experiência:**
-  - +3 anos de experiência em QA e Automação de Testes
+- **Foco Estratégico:** Automação de Testes APIs e Web/UI + Liderança Técnica
+- **Principais Competências:**
+  - **+3 anos** de experiência em QA e Automação de Testes
   - Expertise em automação de testes com **Robot Framework** e **Python**
   - Expertise em testes de APIs Rest com **Postman** e **JavaScript**
-  - Conhecimento e vivência com múltiplos ambientes e homologação do produto
-  - Conhecimento e vivência com **pipelines CI/CD**
-  - Gestão de plano e casos de teste
-  - Planejamento e desenvolvimento de plano e casos de teste
-  - Planejamento e desenvolvimento de casos de teste automatizados
-  - Documentação técnica de projetos
+  - **Arquitetura completa** de frameworks de automação de testes com Robot Framework e Python
+  - Experiência com **múltiplos ambientes** e **homologação do produto**
+  - **DevOps & CI/CD** - Integração contínua e pipelines automatizados
+  - **Mentoria** - Capacitação e onboarding de equipes QA
+  - **Gestão de plano e casos de teste:**
+    - Planejamento e desenvolvimento de plano e casos de teste
+    - Planejamento e desenvolvimento de casos de teste automatizados
+  - **Documentação técnica** Planejamento, execução e documentação de projetos
   
 ### 🐞 **Tipos de Testes:**
 
@@ -158,11 +160,21 @@ timeline
 - ✅ Testes automatizados de APIs (Back-end)
 - ✅ Testes de regressão automatizados (Front-end e Back-end)
 
+### 🔬 **Expertise em Testes**
+
+| Tipo | Tecnologias & Abordagem |
+|------|-------------------------|
+| **🌐 Web/UI** | Selenium + Robot Framework, Cypress, Playwright |
+| **🔌 APIs Rest** | Postman + JS, Swagger, GraphQL, Testes de Contrato |
+| **⚡ Performance** | Testes de carga e stress, análise de métricas |
+| **🗄️ Banco de Dados** | SQL Server, Oracle, MongoDB - Validações complexas |
+| **🔍 Exploratórios** | Metodologia estruturada, documentação de bugs |
+| **🔄 Regressão** | Suítes automatizadas Full Stack (Front + Back) |
+
 ### ⚙️ Práticas e Metodologias
 
-- Metodologias Ágeis
-- Pipelines CI/CD
-- Continuous testing
+- **Metodologias:** Scrum/Kanban, Continuous Testing, TDD/BDD
+- **DevOps:** Azure DevOps, Git, Pipelines CI/CD, Docker
 
 ---
 
@@ -249,6 +261,6 @@ Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
 ![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
 
-#### Feito com 💜 e muito ☕**
+#### Feito com 💜 e muito ☕
 
 </div>
