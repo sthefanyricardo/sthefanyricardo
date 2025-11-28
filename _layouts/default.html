@@ -12,39 +12,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    <!-- Mermaid (usar apenas UMA versão aqui) -->
-    <script src="https://unpkg.com/mermaid@9.4.3/dist/mermaid.min.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        if (!window.mermaid) return;
-        // Não iniciar automatic. Vamos inicializar manualmente depois de criar containers .mermaid
-        mermaid.initialize({ startOnLoad: false });
-
-        // Seleciona blocos de código marcados como language-mermaid
-        const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
-
-        codeBlocks.forEach((codeBlock) => {
-          const pre = codeBlock.closest('pre') || codeBlock.parentElement;
-          const graphDefinition = codeBlock.textContent.trim();
-
-          // cria container mermaid
-          const mermaidDiv = document.createElement('div');
-          mermaidDiv.className = 'mermaid';
-          mermaidDiv.textContent = graphDefinition;
-
-          // substitui o bloco de código pelo container mermaid
-          if (pre && pre.parentElement) {
-            pre.parentElement.replaceChild(mermaidDiv, pre);
-          } else {
-            codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
-          }
-        });
-
-        // Inicializa o mermaid nos containers criados
-        try {
-          mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-        } catch (e) {
-          console.error("Mermaid init error:", e);
+    <!-- Mermaid.js - VERSÃO ATUALIZADA -->
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      
+      mermaid.initialize({ 
+        startOnLoad: true,
+        theme: 'base',
+        themeVariables: {
+          primaryColor: '#6567a5',
+          primaryTextColor: '#fff',
+          primaryBorderColor: '#4a4d7a',
+          lineColor: '#6567a5',
+          secondaryColor: '#e8e9f3',
+          tertiaryColor: '#f5f5f5'
         }
       });
     </script>
