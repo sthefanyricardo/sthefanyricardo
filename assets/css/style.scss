@@ -84,9 +84,11 @@
 
 /* Footer personalizado */
 .site-footer {
-  border-top: 3px solid #6567a5 !important;
-  padding-top: 2rem !important;
-  margin-top: 2rem !important;
+  border: 0 !important;
+  height: 3px !important;
+  background: linear-gradient(90deg, transparent, #6567a5, transparent) !important;
+  margin: 2em 0 !important;
+  border-radius: 2px !important;
 }
 
 .site-footer-owner a,
