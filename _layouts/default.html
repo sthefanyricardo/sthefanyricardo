@@ -12,22 +12,48 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    <!-- Mermaid.js - VERSÃO ATUALIZADA -->
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-      
-      mermaid.initialize({ 
-        startOnLoad: true,
-        theme: 'base',
-        themeVariables: {
-          primaryColor: '#6567a5',
-          primaryTextColor: '#fff',
-          primaryBorderColor: '#4a4d7a',
-          lineColor: '#6567a5',
-          secondaryColor: '#e8e9f3',
-          tertiaryColor: '#f5f5f5'
+    <script>
+    (function () {
+      // Busca blocos mermaid no HTML
+      const hasMermaid = !!document.querySelector('pre > code.language-mermaid, code.language-mermaid, .language-mermaid');
+    
+      if (!hasMermaid) return;
+    
+      // Carrega script do Mermaid dinamicamente (usar UMA versão; aqui v9.x por compatibilidade)
+      const script = document.createElement('script');
+      script.src = 'https://unpkg.com/mermaid@9.4.3/dist/mermaid.min.js';
+      script.async = true;
+      script.onload = () => {
+        try {
+          // Inicializa sem startOnLoad para evitar conflitos
+          mermaid.initialize({ startOnLoad: false });
+    
+          // Transforma blocos ```mermaid``` em <div class="mermaid">...</div>
+          const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
+          codeBlocks.forEach((codeBlock) => {
+            const pre = codeBlock.closest('pre') || codeBlock.parentElement;
+            const graphDefinition = codeBlock.textContent.trim();
+    
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = graphDefinition;
+    
+            if (pre && pre.parentElement) {
+              pre.parentElement.replaceChild(mermaidDiv, pre);
+            } else {
+              codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
+            }
+          });
+    
+          // Renderiza os containers
+          mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+        } catch (err) {
+          console.error('Erro ao inicializar Mermaid:', err);
         }
-      });
+      };
+      script.onerror = () => console.error('Falha ao carregar Mermaid.js');
+      document.head.appendChild(script);
+    })();
     </script>
 
   </head>
