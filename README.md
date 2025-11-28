@@ -15,7 +15,9 @@
 
 Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e **graduanda em Análise e Desenvolvimento de Sistemas** (conclusão em dezembro/2025).
 
-Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho perfil **Lifelong Learning** com foco constante em evolução profissional e tecnologias emergentes.
+💜 Sou apaixonada pela **área de engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho **perfil Lifelong Learning** com foco constante em evolução profissional e tecnologias emergentes.
+
+🎯 **Missão profissional:** Garantir a qualidade e confiabilidade de software através de processos QA, automação de testes e processos, mentoria de equipes e implementação de boas práticas em testes de softwares.
 
 ### 🚀 Destaques da Carreira
 
@@ -209,12 +211,52 @@ timeline
 ## 📚 Estudando atualmente
 
 ```python
-estudos_2025 = {
-    "foco_principal": ["Robot Framework (nível avançado)", "Automação de Testes de APIs", "Postman Academy"],
-    "secundário": ["CI/CD focado em automação", "IA", "MCP", "Agent", "LLMs"],
-    "certificações": ["ISTQB Foundation Level", "Robot Framework Certified Professional (RFCP)"],
-    "cursos_online": ["Test Beyond", "Qualiters Club", "Postman Academy", "Assinatura Vitalícia Origamid", "Assinatura Individual Mensal Udemy"],
-    "livros": ["-", "-"]
+roadmap_estudos_2025 = {
+    "foco_principal": [
+        "Robot Framework (nível avançado)", 
+        "Automação de Testes de APIs", 
+        "Postman Academy - Certification Program"
+    ],
+    "tecnologias_emergentes": [
+        "CI/CD focado em automação", 
+        "IA aplicada em QA (Test Generation, Bug Prediction)",
+        "IA, MCP (Model Context Protocol), Agents, LLMs"
+    ],
+    "certificações": [
+        "ISTQB Foundation Level", 
+        "Robot Framework Certified Professional (RFCP)",
+        "Postman API Testing Certificate"
+    ],
+    "cursos_plataformas": [
+        "Test Beyond", 
+        "Qualiters Club", 
+        "Postman Academy", 
+        "Assinatura Vitalícia Origamid", 
+        "Assinatura Individual Mensal Udemy"
+    ],
+    "leitura_tecnica": [
+        "Agile Testing: A Practical Guide - Lisa Crispin",
+        "The Art of Software Testing - Glenford J. Myers"
+    ],
+    "livros": [
+        "-", 
+        "-"
+    ]
+}
+```
+
+---
+
+## 🧠 Soft Skills & Competências Comportamentais
+
+```python
+soft_skills = {
+    "🎯 lideranca_tecnica": ["Mentoria de equipes", "Code Review", "Arquitetura de projetos"],
+    "🤝 colaboracao": ["Trabalho em equipe ágil", "Chapter QA", "Cross-team collaboration"],
+    "🔍 resolucao_problemas": ["Troubleshooting", "Root cause analysis", "Critical thinking"],
+    "📚 aprendizado_continuo": ["Lifelong learning", "Adaptabilidade", "Curiosidade técnica"],
+    "📝 comunicacao": ["Documentação técnica", "Apresentações", "Knowledge sharing"],
+    "⏰ gestao": ["Priorização", "Deadlines", "Multitasking", "Organização"]
 }
 ```
 
@@ -235,18 +277,23 @@ estudos_2025 = {
 
 ---
 
-<!-- markdownlint-disable MD033 -->
-<div align="center" markdown="1">
-
 ## 💬 Vamos Conversar?
 
-Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
+**Estou aberta a:**
+
+- 🤝 Networking e troca de experiências
+- 🤖 Automação de Testes e boas práticas
+- 🔧 Arquitetura de frameworks de teste
+- 📈 Implementação de QA em times ágeis
+- 🚀 Carreira em Quality Assurance
+- 👩‍🏫 Mentorias em automação de testes
+
+Sinta-se à vontade para me contatar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-6567a5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
 
-</div>
 
 ---
 
