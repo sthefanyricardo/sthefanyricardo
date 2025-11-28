@@ -1,1 +1,103 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+/* Customização do tema Cayman com a cor 6567a5 */
+
+/* Header gradient com a cor personalizada */
+.page-header {
+  background: linear-gradient(120deg, #6567a5 0%, #4a4d7a 100%) !important;
+}
+
+/* Botões do header */
+.btn {
+  background-color: rgba(101, 103, 165, 0.08) !important;
+  border-color: rgba(101, 103, 165, 0.2) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.btn:hover {
+  background-color: rgba(101, 103, 165, 0.2) !important;
+  border-color: rgba(101, 103, 165, 0.3) !important;
+  color: #ffffff !important;
+}
+
+/* Links */
+.main-content a {
+  color: #6567a5 !important;
+}
+
+.main-content a:hover {
+  color: #4a4d7a !important;
+}
+
+/* Headers coloridos */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #6567a5 !important;
+}
+
+/* Tabelas */
+.main-content table th {
+  background-color: #6567a5 !important;
+  color: #ffffff !important;
+}
+
+.main-content table tr:nth-child(odd) {
+  background-color: rgba(101, 103, 165, 0.05) !important;
+}
+
+/* Código inline */
+.main-content code {
+  background-color: rgba(101, 103, 165, 0.1) !important;
+  border: 1px solid rgba(101, 103, 165, 0.2) !important;
+  color: #6567a5 !important;
+}
+
+/* Blocos de código */
+.main-content pre {
+  background-color: #1a1b27 !important;
+  border: 1px solid rgba(101, 103, 165, 0.3) !important;
+}
+
+/* Blockquotes */
+.main-content blockquote {
+  border-left: 4px solid #6567a5 !important;
+  background-color: rgba(101, 103, 165, 0.05) !important;
+}
+
+/* Divisórias (hr) */
+.main-content hr {
+  border: 0 !important;
+  height: 1px !important;
+  background: linear-gradient(90deg, transparent, #6567a5, transparent) !important;
+  margin: 2em 0 !important;
+}
+
+/* Personalização específica para badges */
+.main-content img[src*="shields.io"] {
+  filter: none !important;
+}
+
+/* Mermaid diagrams styling */
+.mermaid-diagram {
+  text-align: center !important;
+  margin: 2em 0 !important;
+}
+
+/* Badges de hard skills */
+.main-content p img[alt*="Framework"],
+.main-content p img[alt*="Selenium"],
+.main-content p img[alt*="Python"],
+.main-content p img[alt*="JavaScript"],
+.main-content p img[alt*="Postman"],
+.main-content p img[alt*="Swagger"],
+.main-content p img[alt*="Azure"],
+.main-content p img[alt*="Jira"] {
+  margin: 0.2em !important;
+}

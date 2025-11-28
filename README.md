@@ -35,7 +35,6 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 
 ### 🌱 **Timeline Mermaid - Jornada Profissional**
 
-{% mermaid %}
 ```mermaid
 ---
 config:
@@ -89,7 +88,6 @@ timeline
             : Robot Framework Certified Professional
             : Especialização em IA para QA
 ```
-{% endmermaid %}
 
 ### 🎓 **Timeline Mermaid - Jornada Acadêmica**
 
