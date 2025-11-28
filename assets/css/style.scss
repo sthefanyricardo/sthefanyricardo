@@ -57,17 +57,28 @@
   background-color: rgba(101, 103, 165, 0.05) !important;
 }
 
-/* Código inline */
-.main-content code {
-  background-color: rgba(101, 103, 165, 0.1) !important;
-  border: 1px solid rgba(101, 103, 165, 0.2) !important;
-  color: #6567a5 !important;
-}
-
 /* Blocos de código */
 .main-content pre {
-  background-color: #1a1b27 !important;
+  background-color: #2d2e40 !important;
+  border: 1px solid rgba(101, 103, 165, 0.4) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 2px 8px rgba(101, 103, 165, 0.1) !important;
+}
+
+.main-content pre code {
+  background-color: transparent !important;
+  color: #e8e8e8 !important;
+  border: none !important;
+}
+
+/* Código inline */
+.main-content code {
+  background-color: rgba(101, 103, 165, 0.15) !important;
   border: 1px solid rgba(101, 103, 165, 0.3) !important;
+  color: #6567a5 !important;
+  padding: 2px 6px !important;
+  border-radius: 4px !important;
+  font-weight: 500 !important;
 }
 
 /* Blockquotes */
@@ -105,4 +116,51 @@
 .main-content p img[alt*="Azure"],
 .main-content p img[alt*="Jira"] {
   margin: 0.2em !important;
+}
+
+/* Melhor contraste para listas */
+.main-content ul li,
+.main-content ol li {
+  margin-bottom: 0.5em !important;
+  line-height: 1.6 !important;
+}
+
+/* Estilo para checkboxes/emojis */
+.main-content li:has(span):first-child {
+  color: #333 !important;
+}
+
+/* Melhoria para elementos destacados */
+.main-content strong {
+  color: #6567a5 !important;
+  font-weight: 700 !important;
+}
+
+.main-content em {
+  color: #4a4d7a !important;
+  font-style: italic !important;
+}
+
+/* Estilo para seções com emojis */
+.main-content h3:has(span):first-child,
+.main-content h2:has(span):first-child {
+  border-bottom: 2px solid rgba(101, 103, 165, 0.2) !important;
+  padding-bottom: 0.5em !important;
+  margin-bottom: 1em !important;
+}
+
+/* GitHub Stats e outras imagens grandes */
+.main-content img[src*="github-readme-stats"],
+.main-content img[src*="github-streak-stats"],
+.main-content img[src*="vercel.app"] {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(101, 103, 165, 0.2) !important;
+  transition: transform 0.3s ease !important;
+}
+
+.main-content img[src*="github-readme-stats"]:hover,
+.main-content img[src*="github-streak-stats"]:hover,
+.main-content img[src*="vercel.app"]:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(101, 103, 165, 0.3) !important;
 }
