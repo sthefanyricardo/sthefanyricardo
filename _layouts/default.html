@@ -12,49 +12,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     
-    <!-- Mermaid.js integration for GitHub Pages -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        // Configure Mermaid
-        mermaid.initialize({ 
-          startOnLoad: false,
-          theme: 'dark',
-          themeVariables: {
-            primaryColor: '#6567a5',
-            primaryTextColor: '#ffffff',
-            primaryBorderColor: '#6567a5',
-            lineColor: '#6567a5',
-            sectionBkgColor: '#1a1b27',
-            altSectionBkgColor: '#2d2e40',
-            gridColor: '#6567a5',
-            secondaryColor: '#6567a5',
-            tertiaryColor: '#1a1b27'
-          }
-        });
-        
-        // Find all code blocks with language 'mermaid' and render them
-        const mermaidBlocks = document.querySelectorAll('pre code.language-mermaid, code.language-mermaid');
-        mermaidBlocks.forEach((block, index) => {
-          const code = block.textContent;
-          const container = document.createElement('div');
-          container.className = 'mermaid-diagram';
-          container.style.textAlign = 'center';
-          
-          // Replace the code block with mermaid container
-          const pre = block.closest('pre') || block;
-          pre.parentNode.insertBefore(container, pre);
-          pre.style.display = 'none';
-          
-          // Render the mermaid diagram
-          mermaid.render(`mermaid-${index}`, code, (svgCode) => {
-            container.innerHTML = svgCode;
-          });
-        });
-      });
+        mermaid.initialize({ startOnLoad: true });
     </script>
-    <!-- End Mermaid.js integration -->
-     
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
