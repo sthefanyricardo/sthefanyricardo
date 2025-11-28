@@ -289,7 +289,7 @@ soft_skills = {
 🚀 Carreira em Quality Assurance  
 👩‍🏫 Mentorias em automação de testes  
 
-Sinta-se à vontade para me contatar:
+**Sinta-se à vontade para me contatar:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
