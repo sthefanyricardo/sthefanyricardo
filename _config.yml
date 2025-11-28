@@ -1,0 +1,18 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+plugins:
+  - jekyll-mermaid
+  - jekyll-github-metadata
+  - jekyll-relative-links
+
+# GitHub Pages configuration
+title: "Sthefany Ricardo - QA Engineer"
+description: "Profissional especializada em Quality Assurance e Automação de Testes"
+url: "https://sthefanyricardo.github.io"
+baseurl: "/sthefanyricardo"
+
+# Theme and layout
+theme: minima
