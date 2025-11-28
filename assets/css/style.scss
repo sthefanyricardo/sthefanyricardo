@@ -47,7 +47,6 @@
 .main-content table {
   width: 100% !important;
   margin: 1.5em 0 !important;
-  border-radius: 8px !important;
   box-shadow: 0 4px 15px rgba(101, 103, 165, 0.3) !important;
 }
 
@@ -79,7 +78,6 @@
 .main-content pre {
   background: linear-gradient(135deg, #2a2d3f 0%, #383b52 100%) !important;
   border: 2px solid rgba(101, 103, 165, 0.4) !important;
-  border-radius: 12px !important;
   padding: 20px !important;
   margin: 1.8em 0 !important;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2) !important;
@@ -95,7 +93,6 @@
   right: 0 !important;
   height: 4px !important;
   background: linear-gradient(90deg, #6567a5 0%, #4a4d7a 100%) !important;
-  border-radius: 12px 12px 0 0 !important;
 }
 
 .main-content pre code {
@@ -114,7 +111,6 @@
   border: 1px solid rgba(101, 103, 165, 0.5) !important;
   color: #6567a5 !important;
   padding: 4px 8px !important;
-  border-radius: 6px !important;
   font-weight: 600 !important;
   font-size: 0.85em !important;
   box-shadow: 0 1px 3px rgba(101, 103, 165, 0.2) !important;
