@@ -81,3 +81,20 @@
   margin: 2em 0 !important;
   border-radius: 2px !important;
 }
+
+/* Footer personalizado */
+.site-footer {
+  border-top: 3px solid #6567a5 !important;
+  padding-top: 2rem !important;
+  margin-top: 2rem !important;
+}
+
+.site-footer-owner a,
+.site-footer-credits a {
+  color: #6567a5 !important;
+}
+
+.site-footer-owner a:hover,
+.site-footer-credits a:hover {
+  color: #4a4d7a !important;
+}
