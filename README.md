@@ -279,7 +279,7 @@ soft_skills = {
 
 ## 💬 Vamos Conversar?
 
-**Estou aberta a:**
+🎯 **Interessado em discutir sobre:**
 
 - 🤝 Networking e troca de experiências
 - 🤖 Automação de Testes e boas práticas
