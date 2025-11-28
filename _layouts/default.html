@@ -14,50 +14,38 @@
 
     <script src="https://unpkg.com/mermaid@11.12.1/dist/mermaid.min.js"></script>
     <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      // Se o bundle mermaid foi incluído com <script src=".../mermaid.min.js"></script>,
-      // ele normalmente fornece window.mermaid. Caso contrário, abortamos.
-      if (!window.mermaid) {
-        console.warn("Mermaid não encontrado em window.mermaid. Verifique se o script CDN foi carregado.");
-        return;
-      }
-    
-      try {
-        // Não usar startOnLoad automático para evitar renderizações duplas
+      document.addEventListener("DOMContentLoaded", function () {
+        if (!window.mermaid) return;
+        // Não iniciar automatic. Vamos inicializar manualmente depois de criar containers .mermaid
         mermaid.initialize({ startOnLoad: false });
-    
+
         // Seleciona blocos de código marcados como language-mermaid
         const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
-    
-        if (codeBlocks.length === 0) return;
-    
+
         codeBlocks.forEach((codeBlock) => {
           const pre = codeBlock.closest('pre') || codeBlock.parentElement;
           const graphDefinition = codeBlock.textContent.trim();
-    
-          // Cria container .mermaid e substitui o bloco de código
+
+          // cria container mermaid
           const mermaidDiv = document.createElement('div');
           mermaidDiv.className = 'mermaid';
           mermaidDiv.textContent = graphDefinition;
-    
+
+          // substitui o bloco de código pelo container mermaid
           if (pre && pre.parentElement) {
             pre.parentElement.replaceChild(mermaidDiv, pre);
-          } else if (codeBlock.parentElement) {
+          } else {
             codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
           }
         });
-    
-        // Renderiza os containers criados
+
+        // Inicializa o mermaid nos containers criados
         try {
           mermaid.init(undefined, document.querySelectorAll('.mermaid'));
         } catch (e) {
-          // em versões diferentes do mermaid a função pode variar; log para depuração
-          console.error("Erro ao chamar mermaid.init:", e);
+          console.error("Mermaid init error:", e);
         }
-      } catch (err) {
-        console.error("Erro ao inicializar Mermaid:", err);
-      }
-    });
+      });
     </script>
 
   </head>
