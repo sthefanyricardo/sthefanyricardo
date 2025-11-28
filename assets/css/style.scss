@@ -53,22 +53,25 @@
 .main-content table th {
   background-color: #6567a5 !important;
   color: #ffffff !important;
-  border: 2px solid #6567a5 !important;
+  border: 1px solid #6567a5 !important;
+  padding: 12px 15px !important;
 }
 
 /* Bordas das tabelas mais fortes */
 .main-content table {
   border-collapse: collapse !important;
-  border: 2px solid #6567a5 !important;
+  border: 1px solid #6567a5 !important;
+  width: 100% !important;
+  margin: 1em 0 !important;
 }
 
 .main-content table td {
-  border: 1px solid #6567a5 !important;
-  padding: 8px 12px !important;
+  border: 1px solid rgba(101, 103, 165, 0.3) !important;
+  padding: 10px 15px !important;
 }
 
 .main-content table tr:nth-child(even) {
-  background-color: rgba(101, 103, 165, 0.1) !important;
+  background-color: rgba(101, 103, 165, 0.05) !important;
 }
 
 /* Divisórias (hr) personalizadas */
