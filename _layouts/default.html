@@ -13,6 +13,7 @@
     {% include head-custom.html %}
 
     <script src="https://unpkg.com/mermaid@11.12.1/dist/mermaid.min.js"></script>
+    {% include mermaid-loader-global.html %}
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       // Se o bundle mermaid foi incluído com <script src=".../mermaid.min.js"></script>,
@@ -59,7 +60,7 @@
       }
     });
     </script>
-    
+    {% include mermaid-loader-global.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
