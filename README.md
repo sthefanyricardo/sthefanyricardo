@@ -37,7 +37,7 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 ```mermaid
 ---
 config:
-  theme: 'dark'
+  theme: 'neutral'
 ---
 timeline
     title Evolução Carreira Tech - Sthefany A. Ricardo
@@ -93,7 +93,7 @@ timeline
 ```mermaid
 ---
 config:
-  theme: 'dark'
+  theme: 'neutral'
 ---
 timeline
     title Formação Acadêmica - Sthefany A. Ricardo
