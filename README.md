@@ -260,6 +260,9 @@ soft_skills = {
 
 ---
 
+<!-- markdownlint-disable MD033 -->
+<div align="center" markdown="1">
+
 ## 📌 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sthefanyricardo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6567a5&icon_color=6567a5)
@@ -268,24 +271,31 @@ soft_skills = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sthefanyricardo&theme=radical&hide_border=true&background=1a1b27&ring=6567a5&fire=6567a5&currStreakLabel=6567a5)
 
+</div>
+
 ---
+
+<!-- markdownlint-disable MD033 -->
+<div align="center" markdown="1">
 
 ## 💬 Vamos Conversar?
 
 🎯 **Interessado em discutir sobre:**
 
-- 🤝 Networking e troca de experiências
-- 🤖 Automação de Testes e boas práticas
-- 🔧 Arquitetura de frameworks de teste
-- 📈 Implementação de QA em times ágeis
-- 🚀 Carreira em Quality Assurance
-- 👩‍🏫 Mentorias em automação de testes
+🤝 Networking e troca de experiências  
+🤖 Automação de Testes e boas práticas  
+🔧 Arquitetura de frameworks de teste  
+📈 Implementação de QA em times ágeis  
+🚀 Carreira em Quality Assurance  
+👩‍🏫 Mentorias em automação de testes  
 
 Sinta-se à vontade para me contatar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-6567a5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
+
+</div>
 
 ---
 
