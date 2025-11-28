@@ -164,32 +164,6 @@ timeline
 - Pipelines CI/CD
 - Continuous testing
 
-- **Foco Estratégico:** Automação de Testes APIs e Web/UI + Liderança Técnica
-- **Principais Competências:**
-  - **+3 anos** especializado em QA e Automação de Testes
-  - **Arquitetura completa** de frameworks de automação (Robot Framework + Python)
-  - **Especialista em APIs Rest** - Testes e contratos (Postman + JavaScript)
-  - **DevOps & CI/CD** - Integração contínua e pipelines automatizados
-  - **Gestão técnica** - Planejamento, execução e documentação de projetos
-  - **Mentoria** - Capacitação e onboarding de equipes QA
-
-### 🔬 **Expertise em Testes**
-
-| Tipo | Tecnologias & Abordagem |
-|------|-------------------------|
-| **🌐 Web/UI** | Selenium + Robot Framework, Cypress, Playwright |
-| **🔌 APIs Rest** | Postman + JS, Swagger, GraphQL, Testes de Contrato |
-| **⚡ Performance** | Testes de carga e stress, análise de métricas |
-| **🗄️ Banco de Dados** | SQL Server, Oracle, MongoDB - Validações complexas |
-| **🔍 Exploratórios** | Metodologia estruturada, documentação de bugs |
-| **🔄 Regressão** | Suítes automatizadas Full Stack (Front + Back) |
-
-### ⚙️ **Stack Técnico & Metodologias**
-
-- **Automação:** Robot Framework, Python, JavaScript, VBScript
-- **Metodologias:** Scrum/Kanban, Continuous Testing, TDD/BDD
-- **DevOps:** Azure DevOps, Git, Pipelines CI/CD, Docker
-
 ---
 
 ## 🦾 Principais Hard skills
@@ -236,6 +210,7 @@ estudos_2025 = {
 
 ## 📌 GitHub Stats
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sthefanyricardo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6567a5&icon_color=6567a5)
