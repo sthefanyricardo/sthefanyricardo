@@ -168,7 +168,7 @@ timeline
 | 🔌 APIs Rest | Postman + JS, Swagger, GraphQL, Testes de Contrato |
 | ⚡ Performance | Testes de carga e stress, análise de métricas |
 | 🗄️ Banco de Dados | SQL Server, Oracle, MongoDB - Validações complexas |
-| 🔍 Exploratórios | Metodologia estruturada, documentação de bugs 
+| 🔍 Exploratórios | Metodologia estruturada, documentação de bugs |
 | 🔄 Regressão | Suítes automatizadas Full Stack (Front + Back) |
 
 ### ⚙️ Práticas e Metodologias
@@ -193,7 +193,7 @@ timeline
 
 | Categoria                           | Tecnologias & Ferramentas                                                                       |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| 👩‍🎨 Frontend                         | `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Markdown`                                            |
+| 👩‍🎨 Frontend                         | `JavaScript`, `HTML`, `CSS`, `Bootstrap`,`Markdown`                                            |
 | 👩‍💻 Backend                          | `Python`, `JavaScript`, `VBScript`, `C#`, `PL/SQL`, `SQL`, `Java`                              |
 | 🗃️ Banco de Dados                   | `SQL Server`, `MySQL`, `Oracle`, `PostgreSQL`, `MongoDB`, `phpMyAdmin`, `Oracle BRM`, `DBeaver` |
 | 🔧 IDEs                             | `VS Code`, `PyCharm`, `Visual Studio`, `Android Studio`, `Eclipse`, `IntelliJ`                  |
