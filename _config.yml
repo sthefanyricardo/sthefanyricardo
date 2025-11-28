@@ -20,6 +20,3 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Custom theme colors
 theme_color: "#6567a5"
 primary_color: "#6567a5"
-
-# Enable Mermaid via JavaScript
-mermaid: true
