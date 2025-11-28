@@ -35,6 +35,10 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 ### 🌱 **Timeline Mermaid - Jornada Profissional**
 
 ```mermaid
+---
+config:
+  theme: 'dark'
+---
 timeline
     title Evolução Carreira Tech - Sthefany A. Ricardo
     
@@ -87,6 +91,10 @@ timeline
 ### 🎓 **Timeline Mermaid - Jornada Acadêmica**
 
 ```mermaid
+---
+config:
+  theme: 'dark'
+---
 timeline
     title Formação Acadêmica - Sthefany A. Ricardo
     
