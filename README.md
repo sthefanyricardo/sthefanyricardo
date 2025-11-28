@@ -167,7 +167,7 @@ timeline
 | Tipo | Tecnologias & Abordagem |
 |------|-------------------------|
 | 🌐 Web/UI | Selenium e Browser Library + Robot Framework e Python, Cypress, Playwright |
-| 🔌 APIs Rest e GraphQL | Postman + JavaScript, Swagger, Validação de JSON Schema com bibliotecas em Pyhton ou JavaScript, Requests Library + Robot Framework e Python, Testes de Contrato com Python ou Pact |
+| 🔌 APIs Rest e GraphQL | Postman + JavaScript, Validação de JSON Schema com bibliotecas em Pyhton ou JavaScript, Requests Library + Robot Framework e Python, Testes de Contrato com Python ou Pact |
 | 🗄️ Banco de Dados | SQL Server, Oracle, MongoDB, Consultas e Validações complexas |
 | 🔄 Regressão | Suítes de testes automatizadas Full Stack (Front-end + Back-end + APIs) |
 
