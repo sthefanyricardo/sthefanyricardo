@@ -70,3 +70,12 @@
 .main-content table tr:nth-child(even) {
   background-color: rgba(101, 103, 165, 0.1) !important;
 }
+
+/* Divisórias (hr) personalizadas */
+.main-content hr {
+  border: 0 !important;
+  height: 3px !important;
+  background: linear-gradient(90deg, transparent, #6567a5, transparent) !important;
+  margin: 2em 0 !important;
+  border-radius: 2px !important;
+}
