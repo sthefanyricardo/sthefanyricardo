@@ -7,8 +7,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
   - jekyll-relative-links
-  - jekyll-spaceship
-  - jekyll-mermaid
 
 # GitHub Pages configuration
 title: "Sthefany Ricardo - QA Engineer"
