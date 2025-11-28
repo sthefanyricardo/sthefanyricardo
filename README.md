@@ -91,8 +91,6 @@ timeline
 
 ### 🎓 **Timeline Mermaid - Jornada Acadêmica**
 
-{% mermaid %}
-
 ```mermaid
 ---
 config:
@@ -129,8 +127,6 @@ timeline
     2º/2025 - 1º/2026 
            : ISTQB : RFCP : IA
 ```
-
-{% endmermaid %}
 
 ---
 
