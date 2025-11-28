@@ -17,6 +17,9 @@ baseurl: "/sthefanyricardo"
 # Theme and layout
 remote_theme: pages-themes/cayman@v0.2.0
 
+# Enable downloads
+show_downloads: true
+
 # Custom theme colors
 theme_color: "#6567a5"
 primary_color: "#6567a5"
