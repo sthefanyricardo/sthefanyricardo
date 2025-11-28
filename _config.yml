@@ -5,7 +5,6 @@ kramdown:
   
 plugins:
   - jekyll-remote-theme
-  - jekyll-mermaid
   - jekyll-github-metadata
   - jekyll-relative-links
 
@@ -17,3 +16,6 @@ baseurl: "/sthefanyricardo"
 
 # Theme and layout
 remote_theme: pages-themes/cayman@v0.2.0
+
+# Enable Mermaid via JavaScript
+mermaid: true
