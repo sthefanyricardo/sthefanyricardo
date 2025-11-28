@@ -4,6 +4,7 @@ kramdown:
   syntax_highlighter: rouge
   
 plugins:
+  - jekyll-remote-theme
   - jekyll-mermaid
   - jekyll-github-metadata
   - jekyll-relative-links
@@ -16,3 +17,4 @@ baseurl: "/sthefanyricardo"
 
 # Theme and layout
 remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: pages-themes/minimal@v0.2.0
