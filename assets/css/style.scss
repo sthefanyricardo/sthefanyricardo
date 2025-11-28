@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 /* Customização do tema Cayman com a cor 6567a5 */
@@ -47,13 +44,10 @@
   color: #6567a5 !important;
 }
 
-/* Tabelas - ESTILO FORÇADO */
 .main-content table {
-  border-collapse: collapse !important;
   width: 100% !important;
   margin: 1.5em 0 !important;
   border-radius: 8px !important;
-  overflow: hidden !important;
   box-shadow: 0 4px 15px rgba(101, 103, 165, 0.3) !important;
 }
 
@@ -63,7 +57,7 @@
   padding: 12px 15px !important;
   text-align: left !important;
   font-weight: 600 !important;
-  border: none !important;
+//   border: none !important;
 }
 
 .main-content table td {
