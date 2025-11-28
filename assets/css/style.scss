@@ -10,27 +10,36 @@
   background: linear-gradient(120deg, #6567a5 0%, #155799 100%) !important;
 }
 
-/* Botões do header - estilo original com cor personalizada */
+/* Botões do header - fundo branco com texto roxo */
 .btn {
-  color: rgba(255, 255, 255, 0.7) !important;
-  background-color: rgba(255, 255, 255, 0.08) !important;
-  border-color: rgba(255, 255, 255, 0.2) !important;
+  color: #6567a5 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  font-weight: 600 !important;
 }
 
 .btn:hover {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: #4a4d7a !important;
   text-decoration: none !important;
-  background-color: rgba(255, 255, 255, 0.2) !important;
-  border-color: rgba(255, 255, 255, 0.3) !important;
+  background-color: #f0f0f0 !important;
+  border-color: #e0e0e0 !important;
 }
 
 /* Links com cor personalizada */
 .main-content a {
-  color: #6567a5 !important;
+  color: #ffffff !important;
+  text-decoration: underline !important;
 }
 
 .main-content a:hover {
+  color: #f0f0f0 !important;
   text-decoration: underline !important;
+}
+
+/* Fundo roxo para a área principal */
+.main-content {
+  background-color: #6567a5 !important;
+  color: #ffffff !important;
 }
 
 /* Headers com cor personalizada */
@@ -40,10 +49,10 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #6567a5 !important;
+  color: #ffffff !important;
 }
 
 /* Elementos strong com cor personalizada */
 .main-content strong {
-  color: #6567a5 !important;
+  color: #ffffff !important;
 }
