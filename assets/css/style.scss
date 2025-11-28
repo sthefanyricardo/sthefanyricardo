@@ -12,15 +12,20 @@
 
 /* Botões do header */
 .btn {
-  background-color: rgba(101, 103, 165, 0.08) !important;
-  border-color: rgba(101, 103, 165, 0.2) !important;
-  color: rgba(255, 255, 255, 0.9) !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #6567a5 !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease !important;
 }
 
 .btn:hover {
-  background-color: rgba(101, 103, 165, 0.2) !important;
-  border-color: rgba(101, 103, 165, 0.3) !important;
-  color: #ffffff !important;
+  background-color: #f0f0f0 !important;
+  border-color: #e0e0e0 !important;
+  color: #4a4d7a !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2) !important;
 }
 
 /* Links */
