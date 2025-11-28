@@ -36,7 +36,7 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 
 ```mermaid
 timeline
-    title Evolução QA - Sthefany Ricardo
+    title Evolução Carreira Tech - Sthefany A. Ricardo
     
     section Carreira - TI, Service desk
     08/2019 : Início Estágio COGESS
@@ -68,24 +68,27 @@ timeline
                       : APIs + Swagger + Postman + JS
     
     section Senioridade
-    2022-01 - 2025/11 : QA/QE Júnior - 3 anos e 5 meses
+    2022-01 - 2025/11 : Nível Júnior - 3 anos e 5 meses
                       : 1 ano e 10 meses na Accenture
                       : 1 ano e 4 meses na Prime Control
                       : 3 meses na Linx
 
-    12/2025 : QA Pleno - Financeiro
-            : 1º mês na ???
+    12/2025 : Promoção QA Pleno
+            : Setor Financeiro
+            : Novo desafio profissional
 
-    section QA Especialização
-    1º/2026
-            : ISTQB : RFCP : IA
+    section Certificações e Especialização
+    1º/2026 : Certificações Planejadas
+            : ISTQB Foundation Level
+            : Robot Framework Certified Professional
+            : Especialização em IA para QA
 ```
 
 ### 🎓 **Timeline Mermaid - Jornada Acadêmica**
 
 ```mermaid
 timeline
-    title Evolução QA - Sthefany Ricardo
+    title Formação Acadêmica - Sthefany A. Ricardo
     
     section Formação Técnica
     2017
