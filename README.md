@@ -164,12 +164,12 @@ timeline
 
 | Tipo | Tecnologias & Abordagem |
 |------|-------------------------|
-| **🌐 Web/UI** | Selenium + Robot Framework, Cypress, Playwright |
-| **🔌 APIs Rest** | Postman + JS, Swagger, GraphQL, Testes de Contrato |
-| **⚡ Performance** | Testes de carga e stress, análise de métricas |
-| **🗄️ Banco de Dados** | SQL Server, Oracle, MongoDB - Validações complexas |
-| **🔍 Exploratórios** | Metodologia estruturada, documentação de bugs |
-| **🔄 Regressão** | Suítes automatizadas Full Stack (Front + Back) |
+| 🌐 Web/UI | Selenium + Robot Framework, Cypress, Playwright |
+| 🔌 APIs Rest | Postman + JS, Swagger, GraphQL, Testes de Contrato |
+| ⚡ Performance | Testes de carga e stress, análise de métricas |
+| 🗄️ Banco de Dados | SQL Server, Oracle, MongoDB - Validações complexas |
+| 🔍 Exploratórios | Metodologia estruturada, documentação de bugs 
+| 🔄 Regressão | Suítes automatizadas Full Stack (Front + Back) |
 
 ### ⚙️ Práticas e Metodologias
 
