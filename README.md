@@ -306,7 +306,7 @@ Sinta-se à vontade para me contatar:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
-![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)  
+![Made with Markdown](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=white&labelColor=6567a5)
 
 #### Feito com 💜 e muito ☕
 
