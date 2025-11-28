@@ -12,42 +12,77 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    <script src="https://unpkg.com/mermaid@11.12.1/dist/mermaid.min.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        if (!window.mermaid) return;
-        // Não iniciar automatic. Vamos inicializar manualmente depois de criar containers .mermaid
-        mermaid.initialize({ startOnLoad: false });
-
-        // Seleciona blocos de código marcados como language-mermaid
+    <script src="https://unpkg.com/mermaid@11.12.1/dist/mermaid.esm.min.mjs"></script>
+    <script type="module">
+      document.addEventListener('DOMContentLoaded', async () => {
         const codeBlocks = document.querySelectorAll('pre > code.language-mermaid, code.language-mermaid');
-
-        codeBlocks.forEach((codeBlock) => {
-          const pre = codeBlock.closest('pre') || codeBlock.parentElement;
-          const graphDefinition = codeBlock.textContent.trim();
-
-          // cria container mermaid
-          const mermaidDiv = document.createElement('div');
-          mermaidDiv.className = 'mermaid';
-          mermaidDiv.textContent = graphDefinition;
-
-          // substitui o bloco de código pelo container mermaid
-          if (pre && pre.parentElement) {
-            pre.parentElement.replaceChild(mermaidDiv, pre);
-          } else {
-            codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
+        if (codeBlocks.length === 0) return; // nada a fazer
+      
+        const render = async (mermaid) => {
+          try {
+            mermaid.initialize?.({ startOnLoad: false });
+          } catch (e) {
+            console.warn('mermaid.initialize falhou, tentando continuar:', e);
           }
-        });
-
-        // Inicializa o mermaid nos containers criados
+      
+          codeBlocks.forEach((codeBlock) => {
+            const pre = codeBlock.closest('pre') || codeBlock.parentElement;
+            const graphDefinition = codeBlock.textContent.trim();
+      
+            const mermaidDiv = document.createElement('div');
+            mermaidDiv.className = 'mermaid';
+            mermaidDiv.textContent = graphDefinition;
+      
+            if (pre && pre.parentElement) {
+              pre.parentElement.replaceChild(mermaidDiv, pre);
+            } else if (codeBlock.parentElement) {
+              codeBlock.parentElement.replaceChild(mermaidDiv, codeBlock);
+            }
+          });
+      
+          try {
+            // mermaid.init pode ser síncrono ou retornar Promise dependendo da versão
+            await (mermaid.init?.(undefined, document.querySelectorAll('.mermaid')) ?? Promise.resolve());
+          } catch (err) {
+            console.error('Erro ao renderizar Mermaid:', err);
+          }
+        };
+      
+        // 1) Se já existe o global (UMD), usa direto
+        if (window.mermaid) {
+          return render(window.mermaid);
+        }
+      
+        // 2) Tenta importar bundle (recomendado para v11+)
         try {
-          mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+          const module = await import('https://unpkg.com/mermaid@11.12.1/dist/mermaid.min.js');
+          const mermaidModule = module.default || module;
+          return render(mermaidModule);
+        } catch (err) {
+          console.warn('Import bundle do mermaid falhou (provavelmente CDN/rua). Tentando fallback UMD...', err);
+        }
+      
+        // 3) Fallback: carrega dinamicamente UMD (v9.x) que define window.mermaid
+        try {
+          await new Promise((resolve, reject) => {
+            const s = document.createElement('script');
+            s.src = 'https://unpkg.com/mermaid@10.9.5/dist/mermaid.min.js';
+            s.async = true;
+            s.onload = () => resolve();
+            s.onerror = (e) => reject(e);
+            document.head.appendChild(s);
+          });
+      
+          if (window.mermaid) {
+            return render(window.mermaid);
+          } else {
+            console.error('Fallback carregado mas window.mermaid ainda não disponível.');
+          }
         } catch (e) {
-          console.error("Mermaid init error:", e);
+          console.error('Falha ao carregar fallback UMD do Mermaid:', e);
         }
       });
     </script>
-
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
