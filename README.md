@@ -262,16 +262,11 @@ soft_skills = {
 
 ## 📌 GitHub Stats
 
-<!-- markdownlint-disable MD033 -->
-<div align="center" markdown="1">
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sthefanyricardo&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6567a5&icon_color=6567a5)
   
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sthefanyricardo&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6567a5)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sthefanyricardo&theme=radical&hide_border=true&background=1a1b27&ring=6567a5&fire=6567a5&currStreakLabel=6567a5)
-
-</div>
 
 ---
 
