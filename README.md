@@ -306,7 +306,7 @@ soft_skills = {
 
 ### ⭐ "Quality is never an accident, it is always the result of intelligent effort." - John Ruskin
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
+![Hits](https://hits.sh/github.com/sthefanyricardo/sthefanyricardo.svg?color=6567a5)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
 ![Made with Markdown](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=white&labelColor=6567a5)
 
