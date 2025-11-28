@@ -35,7 +35,7 @@ Profissional da área **Qualidade de Software** com mais de **3 anos de experiê
 
 ## 🌟 Minha jornada profissional e acadêmica
 
-### 🌱 **Timeline Mermaid - Jornada Profissional**
+### 🌱 Timeline Mermaid - Jornada Profissional
 
 ```mermaid
 ---
@@ -91,7 +91,7 @@ timeline
             : Especialização em IA para QA
 ```
 
-### 🎓 **Timeline Mermaid - Jornada Acadêmica**
+### 🎓 Timeline Mermaid - Jornada Acadêmica
 
 ```mermaid
 ---
@@ -151,7 +151,7 @@ timeline
     - Planejamento e desenvolvimento de casos de teste automatizados
   - **Documentação técnica** Planejamento, execução e documentação de projetos
   
-### 🐞 **Tipos de Testes:**
+### 🐞 Tipos de Testes
 
 - ✅ Testes funcionais e não funcionais
 - ✅ Testes Exploratórios
@@ -162,16 +162,14 @@ timeline
 - ✅ Testes automatizados de APIs (Back-end)
 - ✅ Testes de regressão automatizados (Front-end e Back-end)
 
-### 🔬 **Expertise em Testes**
+### 🤖 Testes Automatizados
 
 | Tipo | Tecnologias & Abordagem |
 |------|-------------------------|
-| 🌐 Web/UI | Selenium + Robot Framework, Cypress, Playwright |
-| 🔌 APIs Rest | Postman + JS, Swagger, GraphQL, Testes de Contrato |
-| ⚡ Performance | Testes de carga e stress, análise de métricas |
-| 🗄️ Banco de Dados | SQL Server, Oracle, MongoDB - Validações complexas |
-| 🔍 Exploratórios | Metodologia estruturada, documentação de bugs |
-| 🔄 Regressão | Suítes automatizadas Full Stack (Front + Back) |
+| 🌐 Web/UI | Selenium e Browser Library + Robot Framework e Python, Cypress, Playwright |
+| 🔌 APIs Rest e GraphQL | Postman + JavaScript, Swagger, Validação de JSON Schema com bibliotecas em Pyhton ou JavaScript, Requests Library + Robot Framework e Python, Testes de Contrato com Python ou Pact |
+| 🗄️ Banco de Dados | SQL Server, Oracle, MongoDB, Consultas e Validações complexas |
+| 🔄 Regressão | Suítes de testes automatizadas Full Stack (Front-end + Back-end + APIs) |
 
 ### ⚙️ Práticas e Metodologias
 
