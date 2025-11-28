@@ -12,22 +12,22 @@
 
 ## 👩‍💻 Sobre mim
 
-Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática**  e finalizando a graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
+Profissional da área **Qualidade de Software** com mais de **3 anos de experiência**, formada em **Técnico em Informática** e **graduanda em Análise e Desenvolvimento de Sistemas** (conclusão em dezembro/2025).
 
-Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho perfil **Lifelong Learning** e foco constante em evolução profissional.
+Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho perfil **Lifelong Learning** com foco constante em evolução profissional e tecnologias emergentes.
 
 ### 🚀 Destaques da Carreira
 
-- +3 anos de experiência em QA e Automação de Testes  
-- Atuação nos setores de **Telecom**, **Varejo de moda e vestuário** e **ERP especializado Varejo e Varejo de Moda**
-- Participação em projetos de testes funcionais, não funcionais e exploratórios (Front-end e Back-end)
-- Atuação em equipes de Chapter de QA e Arquitetura
-- Colaboração em melhorias de processo de QA
-- Suporte ao onboarding de novos QAs
-- Competência de organizar e estruturar projetos de testes automatizados do zero
-- Boas práticas na implementação de estruturas de projeto de Testes Automatizados de APIs
-- Boas práticas na refatoração de estruturas de projeto de Testes Automatizados de APIs
-
+- **+3 anos** de experiência sólida em QA e Automação de Testes  
+- Atuação em projetos dos setores de **Telecom**, **Varejo de moda e vestuário** e **ERP especializado Varejo e Varejo de Moda**
+- **Expertise** em projetos de **testes funcionais, não funcionais e exploratórios** (Front-end e Back-end)
+- Atuação em equipes de **Chapter de QA e Arquitetura** com suporte e/ou colaboração em liderança técnica
+- Colaboração em **melhoria contínua de processos de qualidade**
+- Suporte e colaboração ao **Onboarding e Capacitação** de novos QAs
+- **Arquitetura de projetos** - Competência de estruturar e organizar projetos de automação de testes do zero
+- Implementação de **boas práticas** em projetos de automação de testes com Robot Framework
+- **Refatoração e otimização** de estruturas de automação de testes existentes
+ 
 ---
 
 ## 🌟 Minha jornada profissional e acadêmica
