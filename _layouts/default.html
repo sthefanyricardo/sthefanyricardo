@@ -13,8 +13,26 @@
     {% include head-custom.html %}
     
     <!-- Mermaid.js integration -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script>mermaid.initialize({startOnLoad:true});</script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        mermaid.initialize({ 
+          startOnLoad: true,
+          theme: 'dark',
+          themeVariables: {
+            primaryColor: '#6567a5',
+            primaryTextColor: '#ffffff',
+            primaryBorderColor: '#6567a5',
+            lineColor: '#6567a5',
+            sectionBkgColor: '#1a1b27',
+            altSectionBkgColor: '#2d2e40',
+            gridColor: '#6567a5',
+            secondaryColor: '#6567a5',
+            tertiaryColor: '#1a1b27'
+          }
+        });
+      });
+    </script>
 
   </head>
   <body>

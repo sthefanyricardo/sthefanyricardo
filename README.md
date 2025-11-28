@@ -35,8 +35,6 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 
 ### 🌱 **Timeline Mermaid - Jornada Profissional**
 
-<div class="mermaid">
-
 ```mermaid
 ---
 config:
@@ -91,11 +89,7 @@ timeline
             : Especialização em IA para QA
 ```
 
-</div>
-
 ### 🎓 **Timeline Mermaid - Jornada Acadêmica**
-
-<div class="mermaid">
 
 ```mermaid
 ---
@@ -133,8 +127,6 @@ timeline
     2º/2025 - 1º/2026 
            : ISTQB : RFCP : IA
 ```
-
-</div>
 
 ---
 
