@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,26 +13,9 @@
     {% include head-custom.html %}
     
     <!-- Mermaid.js integration -->
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        mermaid.initialize({ 
-          startOnLoad: true,
-          theme: 'dark',
-          themeVariables: {
-            primaryColor: '#6567a5',
-            primaryTextColor: '#ffffff',
-            primaryBorderColor: '#6567a5',
-            lineColor: '#6567a5',
-            sectionBkgColor: '#1a1b27',
-            altSectionBkgColor: '#2d2e40',
-            gridColor: '#6567a5',
-            secondaryColor: '#6567a5',
-            tertiaryColor: '#1a1b27'
-          }
-        });
-      });
-    </script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
