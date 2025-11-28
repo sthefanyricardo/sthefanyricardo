@@ -5,9 +5,9 @@
 
 /* Customização simples - apenas cor 6567a5 */
 
-/* Header gradient com a cor personalizada */
+/* Header gradient com a cor personalizada - mais roxo */
 .page-header {
-  background: linear-gradient(120deg, #6567a5 0%, #155799 100%) !important;
+  background: linear-gradient(120deg, #6567a5 0%, #6567a5 100%) !important;
 }
 
 /* Botões do header - fundo branco com texto roxo */
@@ -27,19 +27,11 @@
 
 /* Links com cor personalizada */
 .main-content a {
-  color: #ffffff !important;
-  text-decoration: underline !important;
+  color: #6567a5 !important;
 }
 
 .main-content a:hover {
-  color: #f0f0f0 !important;
   text-decoration: underline !important;
-}
-
-/* Fundo roxo para a área principal */
-.main-content {
-  background-color: #6567a5 !important;
-  color: #ffffff !important;
 }
 
 /* Headers com cor personalizada */
@@ -49,10 +41,10 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #ffffff !important;
+  color: #6567a5 !important;
 }
 
 /* Elementos strong com cor personalizada */
 .main-content strong {
-  color: #ffffff !important;
+  color: #6567a5 !important;
 }
