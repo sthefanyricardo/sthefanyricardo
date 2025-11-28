@@ -259,7 +259,7 @@ Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
-![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
+![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)  
 
 #### Feito com 💜 e muito ☕
 
