@@ -16,7 +16,7 @@ Profissional da área **Qualidade de Software** com mais de **3 anos de experiê
 
 Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria contínua e boas práticas de desenvolvimento. Tenho perfil **Lifelong Learning** e foco constante em evolução profissional.
 
-### 🌟 Destaques da Carreira
+### 🚀 Destaques da Carreira
 
 - +3 anos de experiência em QA e Automação de Testes  
 - Atuação nos setores de **Telecom**, **Varejo de moda e vestuário** e **ERP especializado Varejo e Varejo de Moda**
@@ -27,6 +27,94 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - Competência de organizar e estruturar projetos de testes automatizados do zero
 - Boas práticas na implementação de estruturas de projeto de Testes Automatizados de APIs
 - Boas práticas na refatoração de estruturas de projeto de Testes Automatizados de APIs
+
+---
+
+## 🌟 Minha jornada profissional e acadêmica
+
+### 🌱 **Timeline Mermaid - Jornada Profissional**
+
+```mermaid
+timeline
+    title Evolução QA - Sthefany Ricardo
+    
+    section Carreira - TI, Service desk
+    08/2019 : Início Estágio COGESS
+    08/2020 : Fim estágio COGESS
+    
+    section Carreira Tech Dev
+    08/2021 : Dev Jr Accenture
+            : Primeira experiência
+            : Banco de Dados + PL/SQL + Siebel CRM Oracle
+            : Projeto do setor de Telecom
+    
+    01/2022 : Transição para QA
+            : Descoberta da paixão pela área
+            : Início na Automação de testes
+    
+    section Carreira Tech QA/QE
+    01/2022 - 08/2023 : QE Jr - Accenture - Telecom
+                      : UFT One + VBScript
+                      : Robot Framework + Python
+    
+    10/2023 - 01/2025 : QA/QE Jr - Prime Control - Varejo de Moda e Vestuário
+                      : Robot Framework + Python
+                      : Chapter QA + Onboarding
+                      : APIs + Swagger + Postman + JS
+
+    09/2025 - 11/2025 : QA/QE - Linx - ERP Linx Microvix
+                      : Arquitetura Tech em Retail
+                      : Robot Framework + Python
+                      : APIs + Swagger + Postman + JS
+    
+    section Senioridade
+    2022-01 - 2025/11 : QA/QE Júnior - 3 anos e 5 meses
+                      : 1 ano e 10 meses na Accenture
+                      : 1 ano e 4 meses na Prime Control
+                      : 3 meses na Linx
+
+    12/2025 : QA Pleno - Financeiro
+            : 1º mês na ???
+
+    section QA Especialização
+    1º/2026
+            : ISTQB : RFCP : IA
+```
+
+### 🎓 **Timeline Mermaid - Jornada Acadêmica**
+
+```mermaid
+timeline
+    title Evolução QA - Sthefany Ricardo
+    
+    section Formação Técnica
+    2017
+        : 08/2017 : Início Técnico Informática
+        : Base na tecnologia
+    2018
+        : 12/2018 : Conclusão curso Técnico Informática na ETEC
+    
+    section Graduação
+    2018 
+        : 08/2018 : Início Graduação ADS - IFSP
+    
+    2019 
+        : 04/2019 : Início como bolsista no Projeto de Extensão Meninas Programando
+        : 06/2019 : Fim da atividade de bolsista no Projeto de Extensão
+    
+    2024
+        : 06/2024 : Transferência de instituição
+        : 07/2024 : Início no Centro Universitário FAM
+        : Continuação Graduação ADS
+    
+    2025
+        : 12/2025 : Conclusão da Graduação em ADS
+        : Fim da Graduação no Centro Universitário FAM
+    
+    section QA Especialização
+    2º/2025 - 1º/2026 
+           : ISTQB : RFCP : IA
+```
 
 ---
 
@@ -98,7 +186,8 @@ estudos_2025 = {
     "foco_principal": ["Robot Framework (nível avançado)", "Automação de Testes de APIs", "Postman Academy"],
     "secundário": ["CI/CD focado em automação", "IA", "MCP", "Agent", "LLMs"],
     "certificações": ["ISTQB Foundation Level", "Robot Framework Certified Professional (RFCP)"],
-    "livros": ["", ""]
+    "cursos_online": ["Test Beyond", "Qualiters Club", "Postman Academy", "Assinatura Vitalícia Origamid", "Assinatura Individual Mensal Udemy"],
+    "livros": ["-", "-"]
 }
 ```
 
