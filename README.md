@@ -1,14 +1,15 @@
-<div align="center">
-  
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6567a5&size=35&center=true&vCenter=true&width=1000&lines=👋+Hello,+world!+Welcome!!!;👋+Olá,+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6567a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanyricardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-6567a5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefannyricardo@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-6567a5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sthefanyricardo@outlook.com.br)
 
-</div>
+<hr>
 
----
+</div>
 
 ## 👩‍💻 Sobre mim
 
@@ -27,7 +28,7 @@ Sou apaixonada pela área de **engenharia de qualidade de software**, melhoria c
 - **Arquitetura de projetos** - Competência de estruturar e organizar projetos de automação de testes do zero
 - Implementação de **boas práticas** em projetos de automação de testes com Robot Framework
 - **Refatoração e otimização** de estruturas de automação de testes existentes
- 
+
 ---
 
 ## 🌟 Minha jornada profissional e acadêmica
@@ -131,7 +132,8 @@ timeline
 
 ## 🎯 Experiência e Competências
 
-### 🏆 Atuação profissional
+### 🏆 Atuação Profissional
+
 - **Cargo Atual:** Analista de Qualidade de Software Pleno (QA/QE)
 - **Foco principal:** Automação de Testes APIs e Web/UI
 - **Experiência:**
@@ -146,6 +148,7 @@ timeline
   - Documentação técnica de projetos
   
 ### 🐞 **Tipos de Testes:**
+
 - ✅ Testes funcionais e não funcionais
 - ✅ Testes Exploratórios
 - ✅ Consultas e validações em Banco de Dados
@@ -156,9 +159,36 @@ timeline
 - ✅ Testes de regressão automatizados (Front-end e Back-end)
 
 ### ⚙️ Práticas e Metodologias
+
 - Metodologias Ágeis
 - Pipelines CI/CD
 - Continuous testing
+
+- **Foco Estratégico:** Automação de Testes APIs e Web/UI + Liderança Técnica
+- **Principais Competências:**
+  - **+3 anos** especializado em QA e Automação de Testes
+  - **Arquitetura completa** de frameworks de automação (Robot Framework + Python)
+  - **Especialista em APIs Rest** - Testes e contratos (Postman + JavaScript)
+  - **DevOps & CI/CD** - Integração contínua e pipelines automatizados
+  - **Gestão técnica** - Planejamento, execução e documentação de projetos
+  - **Mentoria** - Capacitação e onboarding de equipes QA
+
+### 🔬 **Expertise em Testes**
+
+| Tipo | Tecnologias & Abordagem |
+|------|-------------------------|
+| **🌐 Web/UI** | Selenium + Robot Framework, Cypress, Playwright |
+| **🔌 APIs Rest** | Postman + JS, Swagger, GraphQL, Testes de Contrato |
+| **⚡ Performance** | Testes de carga e stress, análise de métricas |
+| **🗄️ Banco de Dados** | SQL Server, Oracle, MongoDB - Validações complexas |
+| **🔍 Exploratórios** | Metodologia estruturada, documentação de bugs |
+| **🔄 Regressão** | Suítes automatizadas Full Stack (Front + Back) |
+
+### ⚙️ **Stack Técnico & Metodologias**
+
+- **Automação:** Robot Framework, Python, JavaScript, VBScript
+- **Metodologias:** Scrum/Kanban, Continuous Testing, TDD/BDD
+- **DevOps:** Azure DevOps, Git, Pipelines CI/CD, Docker
 
 ---
 
@@ -218,6 +248,7 @@ estudos_2025 = {
 
 ---
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
 
 ## 💬 Vamos Conversar?
@@ -232,18 +263,17 @@ Estou aberta a oportunidades e networking! Sinta-se à vontade para me contatar:
 
 ---
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
 
-#### ⭐ "A qualidade nunca é um acidente, é sempre o resultado de um esforço inteligente." - John Ruskin
+### ⭐ "A qualidade nunca é um acidente, é sempre o resultado de um esforço inteligente." - John Ruskin
 
-#### ⭐ "Quality is never an accident, it is always the result of intelligent effort." - John Ruskin
-
+### ⭐ "Quality is never an accident, it is always the result of intelligent effort." - John Ruskin
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sthefanyricardo.sthefanyricardo)
 ![Profile Views](https://komarev.com/ghpvc/?username=sthefanyricardo&color=6567a5&style=for-the-badge)
 ![Markdown Badge](https://img.shields.io/badge/Made%20with%20Markdown-6567a5?style=for-the-badge&logo=markdown&logoColor=6567a5&labelColor=ffffff)
 
-
-**Feito com 💜 e muito ☕**
+#### Feito com 💜 e muito ☕**
 
 </div>
